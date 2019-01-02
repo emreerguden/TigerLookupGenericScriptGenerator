@@ -1,0 +1,996 @@
+ÝL KODU;ÝL ADI;ÝLÇE KODU;ÝLÇE ADI;ETKÝNLÝK DURUMU
+1;Adana;1104;Seyhan;ETKÝN
+1;Adana;1219;Ceyhan;ETKÝN
+1;Adana;1329;Feke;ETKÝN
+1;Adana;1437;Karaisalý;ETKÝN
+1;Adana;1443;Karataþ;ETKÝN
+1;Adana;1486;Kozan;ETKÝN
+1;Adana;1580;Pozantý;ETKÝN
+1;Adana;1588;Saimbeyli;ETKÝN
+1;Adana;1687;Tufanbeyli;ETKÝN
+1;Adana;1734;Yumurtalýk;ETKÝN
+1;Adana;1748;Yüreðir;ETKÝN
+1;Adana;1757;Aladað;ETKÝN
+1;Adana;1806;Ýmamoðlu;ETKÝN
+1;Adana;2032;Sarýçam;ETKÝN
+1;Adana;2033;Çukurova;ETKÝN
+2;Adýyaman;1105;Adýyaman Merkez;ETKÝN
+2;Adýyaman;1182;Besni;ETKÝN
+2;Adýyaman;1246;Çelikhan;ETKÝN
+2;Adýyaman;1347;Gerger;ETKÝN
+2;Adýyaman;1354;Gölbaþý / Adýyaman;ETKÝN
+2;Adýyaman;1425;Kahta;ETKÝN
+2;Adýyaman;1592;Samsat;ETKÝN
+2;Adýyaman;1985;Sincik;ETKÝN
+2;Adýyaman;1989;Tut;ETKÝN
+3;Afyonkarahisar;1108;Afyonkarahisar Merkez;ETKÝN
+3;Afyonkarahisar;1200;Bolvadin;ETKÝN
+3;Afyonkarahisar;1239;Çay;ETKÝN
+3;Afyonkarahisar;1267;Dazkýrý;ETKÝN
+3;Afyonkarahisar;1281;Dinar;ETKÝN
+3;Afyonkarahisar;1306;Emirdað;ETKÝN
+3;Afyonkarahisar;1404;Ýhsaniye;ETKÝN
+3;Afyonkarahisar;1594;Sandýklý;ETKÝN
+3;Afyonkarahisar;1626;Sinanpaþa;ETKÝN
+3;Afyonkarahisar;1639;Sultandaðý;ETKÝN
+3;Afyonkarahisar;1664;Þuhut;ETKÝN
+3;Afyonkarahisar;1771;Baþmakçý;ETKÝN
+3;Afyonkarahisar;1773;Bayat / Afyonkarahisar;ETKÝN
+3;Afyonkarahisar;1809;Ýscehisar;ETKÝN
+3;Afyonkarahisar;1906;Çobanlar;ETKÝN
+3;Afyonkarahisar;1923;Evciler;ETKÝN
+3;Afyonkarahisar;1944;Hocalar;ETKÝN
+3;Afyonkarahisar;1961;Kýzýlören;ETKÝN
+4;Aðrý;1111;Aðrý Merkez;ETKÝN
+4;Aðrý;1283;Diyadin;ETKÝN
+4;Aðrý;1287;Doðubayazýt;ETKÝN
+4;Aðrý;1301;Eleþkirt;ETKÝN
+4;Aðrý;1379;Hamur;ETKÝN
+4;Aðrý;1568;Patnos;ETKÝN
+4;Aðrý;1667;Taþlýçay;ETKÝN
+4;Aðrý;1691;Tutak;ETKÝN
+5;Amasya;1134;Amasya Merkez;ETKÝN
+5;Amasya;1363;Göynücek;ETKÝN
+5;Amasya;1368;Gümüþhacýköy;ETKÝN
+5;Amasya;1524;Merzifon;ETKÝN
+5;Amasya;1641;Suluova;ETKÝN
+5;Amasya;1668;Taþova;ETKÝN
+5;Amasya;1938;Hamamözü;ETKÝN
+6;Ankara;1130;Altýndað;ETKÝN
+6;Ankara;1157;Ayaþ;ETKÝN
+6;Ankara;1167;Bala;ETKÝN
+6;Ankara;1187;Beypazarý;ETKÝN
+6;Ankara;1227;Çamlýdere;ETKÝN
+6;Ankara;1231;Çankaya;ETKÝN
+6;Ankara;1260;Çubuk;ETKÝN
+6;Ankara;1302;Elmadað;ETKÝN
+6;Ankara;1365;Güdül;ETKÝN
+6;Ankara;1387;Haymana;ETKÝN
+6;Ankara;1427;Kalecik;ETKÝN
+6;Ankara;1473;Kýzýlcahamam;ETKÝN
+6;Ankara;1539;Nallýhan;ETKÝN
+6;Ankara;1578;Polatlý;ETKÝN
+6;Ankara;1658;Þereflikoçhisar;ETKÝN
+6;Ankara;1723;Yenimahalle;ETKÝN
+6;Ankara;1744;Gölbaþý / Ankara;ETKÝN
+6;Ankara;1745;Keçiören;ETKÝN
+6;Ankara;1746;Mamak;ETKÝN
+6;Ankara;1747;Sincan;ETKÝN
+6;Ankara;1815;Kazan;ETKÝN
+6;Ankara;1872;Akyurt;ETKÝN
+6;Ankara;1922;Etimesgut;ETKÝN
+6;Ankara;1924;Evren;ETKÝN
+6;Ankara;2034;Pursaklar;ETKÝN
+7;Antalya;1121;Akseki;ETKÝN
+7;Antalya;1126;Alanya;ETKÝN
+7;Antalya;1138;Antalya Merkez;ETKÝN DEÐÝL
+7;Antalya;1303;Elmalý;ETKÝN
+7;Antalya;1333;Finike;ETKÝN
+7;Antalya;1337;Gazipaþa;ETKÝN
+7;Antalya;1370;Gündoðmuþ;ETKÝN
+7;Antalya;1451;Kaþ;ETKÝN
+7;Antalya;1483;Korkuteli;ETKÝN
+7;Antalya;1492;Kumluca;ETKÝN
+7;Antalya;1512;Manavgat;ETKÝN
+7;Antalya;1616;Serik;ETKÝN
+7;Antalya;1811;Demre;ETKÝN
+7;Antalya;1946;Ýbradý;ETKÝN
+7;Antalya;1959;Kemer / Antalya;ETKÝN
+7;Antalya;2035;Aksu / Antalya;ETKÝN
+7;Antalya;2036;Döþemealtý;ETKÝN
+7;Antalya;2037;Kepez;ETKÝN
+7;Antalya;2038;Konyaaltý;ETKÝN
+7;Antalya;2039;Muratpaþa;ETKÝN
+8;Artvin;1145;Ardanuç;ETKÝN
+8;Artvin;1147;Arhavi;ETKÝN
+8;Artvin;1152;Artvin Merkez;ETKÝN
+8;Artvin;1202;Borçka;ETKÝN
+8;Artvin;1395;Hopa;ETKÝN
+8;Artvin;1653;Þavþat;ETKÝN
+8;Artvin;1736;Yusufeli;ETKÝN
+8;Artvin;1828;Murgul;ETKÝN
+8;Artvin;2105;Kemalpaþa / Artvin;ETKÝN DEÐÝL
+9;Aydýn;1159;Aydýn Merkez;ETKÝN DEÐÝL
+9;Aydýn;1206;Bozdoðan;ETKÝN
+9;Aydýn;1256;Çine;ETKÝN
+9;Aydýn;1348;Germencik;ETKÝN
+9;Aydýn;1435;Karacasu;ETKÝN
+9;Aydýn;1479;Koçarlý;ETKÝN
+9;Aydýn;1497;Kuþadasý;ETKÝN
+9;Aydýn;1498;Kuyucak;ETKÝN
+9;Aydýn;1542;Nazilli;ETKÝN
+9;Aydýn;1637;Söke;ETKÝN
+9;Aydýn;1640;Sultanhisar;ETKÝN
+9;Aydýn;1724;Yenipazar / Aydýn;ETKÝN
+9;Aydýn;1781;Buharkent;ETKÝN
+9;Aydýn;1807;Ýncirliova;ETKÝN
+9;Aydýn;1957;Karpuzlu;ETKÝN
+9;Aydýn;1968;Köþk;ETKÝN
+9;Aydýn;2000;Didim;ETKÝN
+9;Aydýn;2076;Efeler;ETKÝN
+10;Balýkesir;1161;Ayvalýk;ETKÝN
+10;Balýkesir;1168;Balýkesir Merkez;ETKÝN DEÐÝL
+10;Balýkesir;1169;Balya;ETKÝN
+10;Balýkesir;1171;Bandýrma;ETKÝN
+10;Balýkesir;1191;Bigadiç;ETKÝN
+10;Balýkesir;1216;Burhaniye;ETKÝN
+10;Balýkesir;1291;Dursunbey;ETKÝN
+10;Balýkesir;1294;Edremit / Balýkesir;ETKÝN
+10;Balýkesir;1310;Erdek;ETKÝN
+10;Balýkesir;1360;Gönen / Balýkesir;ETKÝN
+10;Balýkesir;1384;Havran;ETKÝN
+10;Balýkesir;1418;Ývrindi;ETKÝN
+10;Balýkesir;1462;Kepsut;ETKÝN
+10;Balýkesir;1514;Manyas;ETKÝN
+10;Balýkesir;1608;Savaþtepe;ETKÝN
+10;Balýkesir;1619;Sýndýrgý;ETKÝN
+10;Balýkesir;1644;Susurluk;ETKÝN
+10;Balýkesir;1824;Marmara;ETKÝN
+10;Balýkesir;1928;Gömeç;ETKÝN
+10;Balýkesir;2077;Altýeylül;ETKÝN
+10;Balýkesir;2078;Karesi;ETKÝN
+11;Bilecik;1192;Bilecik Merkez;ETKÝN
+11;Bilecik;1210;Bozüyük;ETKÝN
+11;Bilecik;1359;Gölpazarý;ETKÝN
+11;Bilecik;1559;Osmaneli;ETKÝN
+11;Bilecik;1571;Pazaryeri;ETKÝN
+11;Bilecik;1636;Söðüt;ETKÝN
+11;Bilecik;1857;Yenipazar / Bilecik;ETKÝN
+11;Bilecik;1948;Ýnhisar;ETKÝN
+12;Bingöl;1193;Bingöl Merkez;ETKÝN
+12;Bingöl;1344;Genç;ETKÝN
+12;Bingöl;1446;Karlýova;ETKÝN
+12;Bingöl;1475;Kiðý;ETKÝN
+12;Bingöl;1633;Solhan;ETKÝN
+12;Bingöl;1750;Adaklý;ETKÝN
+12;Bingöl;1855;Yayladere;ETKÝN
+12;Bingöl;1996;Yedisu;ETKÝN
+13;Bitlis;1106;Adilcevaz;ETKÝN
+13;Bitlis;1112;Ahlat;ETKÝN
+13;Bitlis;1196;Bitlis Merkez;ETKÝN
+13;Bitlis;1394;Hizan;ETKÝN
+13;Bitlis;1537;Mutki;ETKÝN
+13;Bitlis;1669;Tatvan;ETKÝN
+13;Bitlis;1798;Güroymak;ETKÝN
+14;Bolu;1199;Bolu Merkez;ETKÝN
+14;Bolu;1346;Gerede;ETKÝN
+14;Bolu;1364;Göynük;ETKÝN
+14;Bolu;1466;Kýbrýscýk;ETKÝN
+14;Bolu;1522;Mengen;ETKÝN
+14;Bolu;1531;Mudurnu;ETKÝN
+14;Bolu;1610;Seben;ETKÝN
+14;Bolu;1916;Dörtdivan;ETKÝN
+14;Bolu;1997;Yeniçaða;ETKÝN
+15;Burdur;1109;Aðlasun;ETKÝN
+15;Burdur;1211;Bucak;ETKÝN
+15;Burdur;1215;Burdur Merkez;ETKÝN
+15;Burdur;1357;Gölhisar;ETKÝN
+15;Burdur;1672;Tefenni;ETKÝN
+15;Burdur;1728;Yeþilova;ETKÝN
+15;Burdur;1813;Karamanlý;ETKÝN
+15;Burdur;1816;Kemer / Burdur;ETKÝN
+15;Burdur;1874;Altýnyayla / Burdur;ETKÝN
+15;Burdur;1899;Çavdýr;ETKÝN
+15;Burdur;1903;Çeltikçi;ETKÝN
+16;Bursa;1343;Gemlik;ETKÝN
+16;Bursa;1411;Ýnegöl;ETKÝN
+16;Bursa;1420;Ýznik;ETKÝN
+16;Bursa;1434;Karacabey;ETKÝN
+16;Bursa;1457;Keles;ETKÝN
+16;Bursa;1530;Mudanya;ETKÝN
+16;Bursa;1535;Mustafakemalpaþa;ETKÝN
+16;Bursa;1553;Orhaneli;ETKÝN
+16;Bursa;1554;Orhangazi;ETKÝN
+16;Bursa;1725;Yeniþehir / Bursa;ETKÝN
+16;Bursa;1783;Büyükorhan;ETKÝN
+16;Bursa;1799;Harmancýk;ETKÝN
+16;Bursa;1829;Nilüfer;ETKÝN
+16;Bursa;1832;Osmangazi;ETKÝN
+16;Bursa;1859;Yýldýrým;ETKÝN
+16;Bursa;1935;Gürsu;ETKÝN
+16;Bursa;1960;Kestel;ETKÝN
+17;Çanakkale;1160;Ayvacýk / Çanakkale;ETKÝN
+17;Çanakkale;1180;Bayramiç;ETKÝN
+17;Çanakkale;1190;Biga;ETKÝN
+17;Çanakkale;1205;Bozcaada;ETKÝN
+17;Çanakkale;1229;Çan;ETKÝN
+17;Çanakkale;1230;Çanakkale Merkez;ETKÝN
+17;Çanakkale;1293;Eceabat;ETKÝN
+17;Çanakkale;1326;Ezine;ETKÝN
+17;Çanakkale;1340;Gelibolu;ETKÝN
+17;Çanakkale;1408;Gökçeada;ETKÝN
+17;Çanakkale;1503;Lapseki;ETKÝN
+17;Çanakkale;1722;Yenice / Çanakkale;ETKÝN
+18;Çankýrý;1232;Çankýrý Merkez;ETKÝN
+18;Çankýrý;1248;Çerkeþ;ETKÝN
+18;Çankýrý;1300;Eldivan;ETKÝN
+18;Çankýrý;1399;Ilgaz;ETKÝN
+18;Çankýrý;1494;Kurþunlu;ETKÝN
+18;Çankýrý;1555;Orta;ETKÝN
+18;Çankýrý;1649;Þabanözü;ETKÝN
+18;Çankýrý;1718;Yapraklý;ETKÝN
+18;Çankýrý;1765;Atkaracalar;ETKÝN
+18;Çankýrý;1817;Kýzýlýrmak;ETKÝN
+18;Çankýrý;1885;Bayramören;ETKÝN
+18;Çankýrý;1963;Korgun;ETKÝN
+19;Çorum;1124;Alaca;ETKÝN
+19;Çorum;1177;Bayat / Çorum;ETKÝN
+19;Çorum;1259;Çorum Merkez;ETKÝN
+19;Çorum;1414;Ýskilip;ETKÝN
+19;Çorum;1445;Kargý;ETKÝN
+19;Çorum;1520;Mecitözü;ETKÝN
+19;Çorum;1556;Ortaköy / Çorum;ETKÝN
+19;Çorum;1558;Osmancýk;ETKÝN
+19;Çorum;1642;Sungurlu;ETKÝN
+19;Çorum;1778;Boðazkale;ETKÝN
+19;Çorum;1850;Uðurludað;ETKÝN
+19;Çorum;1911;Dodurga;ETKÝN
+19;Çorum;1972;Laçin;ETKÝN
+19;Çorum;1976;Oðuzlar;ETKÝN
+20;Denizli;1102;Acýpayam;ETKÝN
+20;Denizli;1214;Buldan;ETKÝN
+20;Denizli;1224;Çal;ETKÝN
+20;Denizli;1226;Çameli;ETKÝN
+20;Denizli;1233;Çardak;ETKÝN
+20;Denizli;1257;Çivril;ETKÝN
+20;Denizli;1271;Denizli Merkez;ETKÝN DEÐÝL
+20;Denizli;1371;Güney;ETKÝN
+20;Denizli;1426;Kale / Denizli;ETKÝN
+20;Denizli;1597;Sarayköy;ETKÝN
+20;Denizli;1670;Tavas;ETKÝN
+20;Denizli;1769;Babadað;ETKÝN
+20;Denizli;1774;Bekilli;ETKÝN
+20;Denizli;1803;Honaz;ETKÝN
+20;Denizli;1840;Serinhisar;ETKÝN
+20;Denizli;1871;Pamukkale;ETKÝN
+20;Denizli;1881;Baklan;ETKÝN
+20;Denizli;1888;Beyaðaç;ETKÝN
+20;Denizli;1889;Bozkurt / Denizli;ETKÝN
+20;Denizli;2079;Merkezefendi;ETKÝN
+21;Diyarbakýr;1195;Bismil;ETKÝN
+21;Diyarbakýr;1249;Çermik;ETKÝN
+21;Diyarbakýr;1253;Çýnar;ETKÝN
+21;Diyarbakýr;1263;Çüngüþ;ETKÝN
+21;Diyarbakýr;1278;Dicle;ETKÝN
+21;Diyarbakýr;1284;Diyarbakýr Merkez;ETKÝN DEÐÝL
+21;Diyarbakýr;1315;Ergani;ETKÝN
+21;Diyarbakýr;1381;Hani;ETKÝN
+21;Diyarbakýr;1389;Hazro;ETKÝN
+21;Diyarbakýr;1490;Kulp;ETKÝN
+21;Diyarbakýr;1504;Lice;ETKÝN
+21;Diyarbakýr;1624;Silvan;ETKÝN
+21;Diyarbakýr;1791;Eðil;ETKÝN
+21;Diyarbakýr;1962;Kocaköy;ETKÝN
+21;Diyarbakýr;2040;Baðlar;ETKÝN
+21;Diyarbakýr;2041;Kayapýnar;ETKÝN
+21;Diyarbakýr;2042;Sur;ETKÝN
+21;Diyarbakýr;2043;Yeniþehir / Diyarbakýr;ETKÝN
+22;Edirne;1295;Edirne Merkez;ETKÝN
+22;Edirne;1307;Enez;ETKÝN
+22;Edirne;1385;Havsa;ETKÝN
+22;Edirne;1412;Ýpsala;ETKÝN
+22;Edirne;1464;Keþan;ETKÝN
+22;Edirne;1502;Lalapaþa;ETKÝN
+22;Edirne;1523;Meriç;ETKÝN
+22;Edirne;1705;Uzunköprü;ETKÝN
+22;Edirne;1988;Süloðlu;ETKÝN
+23;Elazýð;1110;Aðýn;ETKÝN
+23;Elazýð;1173;Baskil;ETKÝN
+23;Elazýð;1298;Elazýð Merkez;ETKÝN
+23;Elazýð;1438;Karakoçan;ETKÝN
+23;Elazýð;1455;Keban;ETKÝN
+23;Elazýð;1506;Maden;ETKÝN
+23;Elazýð;1566;Palu;ETKÝN
+23;Elazýð;1631;Sivrice;ETKÝN
+23;Elazýð;1762;Arýcak;ETKÝN
+23;Elazýð;1820;Kovancýlar;ETKÝN
+23;Elazýð;1873;Alacakaya;ETKÝN
+24;Erzincan;1243;Çayýrlý;ETKÝN
+24;Erzincan;1318;Erzincan Merkez;ETKÝN
+24;Erzincan;1406;Ýliç;ETKÝN
+24;Erzincan;1459;Kemah;ETKÝN
+24;Erzincan;1460;Kemaliye;ETKÝN
+24;Erzincan;1583;Refahiye;ETKÝN
+24;Erzincan;1675;Tercan;ETKÝN
+24;Erzincan;1853;Üzümlü;ETKÝN
+24;Erzincan;1977;Otlukbeli;ETKÝN
+25;Erzurum;1153;Aþkale;ETKÝN
+25;Erzurum;1235;Çat;ETKÝN
+25;Erzurum;1319;Erzurum Merkez;ETKÝN DEÐÝL
+25;Erzurum;1392;Hýnýs;ETKÝN
+25;Erzurum;1396;Horasan;ETKÝN
+25;Erzurum;1416;Ýspir;ETKÝN
+25;Erzurum;1444;Karayazý;ETKÝN
+25;Erzurum;1540;Narman;ETKÝN
+25;Erzurum;1550;Oltu;ETKÝN
+25;Erzurum;1551;Olur;ETKÝN
+25;Erzurum;1567;Pasinler;ETKÝN
+25;Erzurum;1657;Þenkaya;ETKÝN
+25;Erzurum;1674;Tekman;ETKÝN
+25;Erzurum;1683;Tortum;ETKÝN
+25;Erzurum;1812;Karaçoban;ETKÝN
+25;Erzurum;1851;Uzundere;ETKÝN
+25;Erzurum;1865;Pazaryolu;ETKÝN
+25;Erzurum;1945;Aziziye;ETKÝN
+25;Erzurum;1967;Köprüköy;ETKÝN
+25;Erzurum;2044;Palandöken;ETKÝN
+25;Erzurum;2045;Yakutiye;ETKÝN
+26;Eskiþehir;1255;Çifteler;ETKÝN
+26;Eskiþehir;1322;Eskiþehir Merkez;ETKÝN DEÐÝL
+26;Eskiþehir;1508;Mahmudiye;ETKÝN
+26;Eskiþehir;1527;Mihalýççýk;ETKÝN
+26;Eskiþehir;1599;Sarýcakaya;ETKÝN
+26;Eskiþehir;1618;Seyitgazi;ETKÝN
+26;Eskiþehir;1632;Sivrihisar;ETKÝN
+26;Eskiþehir;1759;Alpu;ETKÝN
+26;Eskiþehir;1777;Beylikova;ETKÝN
+26;Eskiþehir;1808;Ýnönü;ETKÝN
+26;Eskiþehir;1934;Günyüzü;ETKÝN
+26;Eskiþehir;1939;Han;ETKÝN
+26;Eskiþehir;1973;Mihalgazi;ETKÝN
+26;Eskiþehir;2046;Odunpazarý;ETKÝN
+26;Eskiþehir;2047;Tepebaþý;ETKÝN
+27;Gaziantep;1139;Araban;ETKÝN
+27;Gaziantep;1415;Ýslahiye;ETKÝN
+27;Gaziantep;1546;Nizip;ETKÝN
+27;Gaziantep;1549;Oðuzeli;ETKÝN
+27;Gaziantep;1720;Yavuzeli;ETKÝN
+27;Gaziantep;1841;Þahinbey;ETKÝN
+27;Gaziantep;1844;Þehitkamil;ETKÝN
+27;Gaziantep;1956;Karkamýþ;ETKÝN
+27;Gaziantep;1974;Nurdaðý;ETKÝN
+28;Giresun;1133;Alucra;ETKÝN
+28;Giresun;1212;Bulancak;ETKÝN
+28;Giresun;1272;Dereli;ETKÝN
+28;Giresun;1320;Espiye;ETKÝN
+28;Giresun;1324;Eynesil;ETKÝN
+28;Giresun;1352;Giresun Merkez;ETKÝN
+28;Giresun;1361;Görele;ETKÝN
+28;Giresun;1465;Keþap;ETKÝN
+28;Giresun;1654;Þebinkarahisar;ETKÝN
+28;Giresun;1678;Tirebolu;ETKÝN
+28;Giresun;1837;Piraziz;ETKÝN
+28;Giresun;1854;Yaðlýdere;ETKÝN
+28;Giresun;1893;Çamoluk;ETKÝN
+28;Giresun;1894;Çanakçý;ETKÝN
+28;Giresun;1912;Doðankent;ETKÝN
+28;Giresun;1930;Güce;ETKÝN
+29;Gümüþhane;1369;Gümüþhane Merkez;ETKÝN
+29;Gümüþhane;1458;Kelkit;ETKÝN
+29;Gümüþhane;1660;Þiran;ETKÝN
+29;Gümüþhane;1684;Torul;ETKÝN
+29;Gümüþhane;1822;Köse;ETKÝN
+29;Gümüþhane;1971;Kürtün;ETKÝN
+30;Hakkari;1261;Çukurca;ETKÝN
+30;Hakkari;1377;Hakkari Merkez;ETKÝN
+30;Hakkari;1656;Þemdinli;ETKÝN
+30;Hakkari;1737;Yüksekova;ETKÝN
+31;Hatay;1131;Altýnözü;ETKÝN
+31;Hatay;1289;Dörtyol;ETKÝN
+31;Hatay;1382;Hassa;ETKÝN
+31;Hatay;1383;Hatay Merkez;ETKÝN DEÐÝL
+31;Hatay;1413;Ýskenderun;ETKÝN
+31;Hatay;1468;Kýrýkhan;ETKÝN
+31;Hatay;1585;Reyhanlý;ETKÝN
+31;Hatay;1591;Samandað;ETKÝN
+31;Hatay;1721;Yayladaðý;ETKÝN
+31;Hatay;1792;Erzin;ETKÝN
+31;Hatay;1887;Belen;ETKÝN
+31;Hatay;1970;Kumlu;ETKÝN
+31;Hatay;2080;Antakya;ETKÝN
+31;Hatay;2081;Arsuz;ETKÝN
+31;Hatay;2082;Defne;ETKÝN
+31;Hatay;2083;Payas;ETKÝN
+32;Isparta;1154;Atabey;ETKÝN
+32;Isparta;1297;Eðirdir;ETKÝN
+32;Isparta;1341;Gelendost;ETKÝN
+32;Isparta;1401;Isparta Merkez;ETKÝN
+32;Isparta;1456;Keçiborlu;ETKÝN
+32;Isparta;1615;Senirkent;ETKÝN
+32;Isparta;1648;Sütçüler;ETKÝN
+32;Isparta;1651;Þarkikaraaðaç;ETKÝN
+32;Isparta;1699;Uluborlu;ETKÝN
+32;Isparta;1717;Yalvaç;ETKÝN
+32;Isparta;1755;Aksu / Isparta;ETKÝN
+32;Isparta;1929;Gönen / Isparta;ETKÝN
+32;Isparta;2001;Yeniþarbademli;ETKÝN
+33;Mersin;1135;Anamur;ETKÝN
+33;Mersin;1311;Erdemli;ETKÝN
+33;Mersin;1366;Gülnar;ETKÝN
+33;Mersin;1402;Mersin Merkez;ETKÝN DEÐÝL
+33;Mersin;1536;Mut;ETKÝN
+33;Mersin;1621;Silifke;ETKÝN
+33;Mersin;1665;Tarsus;ETKÝN
+33;Mersin;1766;Aydýncýk / Mersin;ETKÝN
+33;Mersin;1779;Bozyazý;ETKÝN
+33;Mersin;1892;Çamlýyayla;ETKÝN
+33;Mersin;2064;Akdeniz;ETKÝN
+33;Mersin;2065;Mezitli;ETKÝN
+33;Mersin;2066;Toroslar;ETKÝN
+33;Mersin;2067;Yeniþehir / Mersin;ETKÝN
+34;Ýstanbul;1103;Adalar;ETKÝN
+34;Ýstanbul;1166;Bakýrköy;ETKÝN
+34;Ýstanbul;1183;Beþiktaþ;ETKÝN
+34;Ýstanbul;1185;Beykoz;ETKÝN
+34;Ýstanbul;1186;Beyoðlu;ETKÝN
+34;Ýstanbul;1237;Çatalca;ETKÝN
+34;Ýstanbul;1305;Eminönü;ETKÝN DEÐÝL
+34;Ýstanbul;1325;Eyüp;ETKÝN
+34;Ýstanbul;1327;Fatih;ETKÝN
+34;Ýstanbul;1336;Gaziosmanpaþa;ETKÝN
+34;Ýstanbul;1421;Kadýköy;ETKÝN
+34;Ýstanbul;1449;Kartal;ETKÝN
+34;Ýstanbul;1604;Sarýyer;ETKÝN
+34;Ýstanbul;1622;Silivri;ETKÝN
+34;Ýstanbul;1659;Þile;ETKÝN
+34;Ýstanbul;1663;Þiþli;ETKÝN
+34;Ýstanbul;1708;Üsküdar;ETKÝN
+34;Ýstanbul;1739;Zeytinburnu;ETKÝN
+34;Ýstanbul;1782;Büyükçekmece;ETKÝN
+34;Ýstanbul;1810;Kaðýthane;ETKÝN
+34;Ýstanbul;1823;Küçükçekmece;ETKÝN
+34;Ýstanbul;1835;Pendik;ETKÝN
+34;Ýstanbul;1852;Ümraniye;ETKÝN
+34;Ýstanbul;1886;Bayrampaþa;ETKÝN
+34;Ýstanbul;2003;Avcýlar;ETKÝN
+34;Ýstanbul;2004;Baðcýlar;ETKÝN
+34;Ýstanbul;2005;Bahçelievler;ETKÝN
+34;Ýstanbul;2010;Güngören;ETKÝN
+34;Ýstanbul;2012;Maltepe;ETKÝN
+34;Ýstanbul;2014;Sultanbeyli;ETKÝN
+34;Ýstanbul;2015;Tuzla;ETKÝN
+34;Ýstanbul;2016;Esenler;ETKÝN
+34;Ýstanbul;2048;Arnavutköy;ETKÝN
+34;Ýstanbul;2049;Ataþehir;ETKÝN
+34;Ýstanbul;2050;Baþakþehir;ETKÝN
+34;Ýstanbul;2051;Beylikdüzü;ETKÝN
+34;Ýstanbul;2052;Çekmeköy;ETKÝN
+34;Ýstanbul;2053;Esenyurt;ETKÝN
+34;Ýstanbul;2054;Sancaktepe;ETKÝN
+34;Ýstanbul;2055;Sultangazi;ETKÝN
+35;Ýzmir;1128;Aliaða;ETKÝN
+35;Ýzmir;1178;Bayýndýr;ETKÝN
+35;Ýzmir;1181;Bergama;ETKÝN
+35;Ýzmir;1203;Bornova;ETKÝN
+35;Ýzmir;1251;Çeþme;ETKÝN
+35;Ýzmir;1280;Dikili;ETKÝN
+35;Ýzmir;1334;Foça;ETKÝN
+35;Ýzmir;1432;Karaburun;ETKÝN
+35;Ýzmir;1448;Karþýyaka;ETKÝN
+35;Ýzmir;1461;Kemalpaþa / Ýzmir;ETKÝN
+35;Ýzmir;1467;Kýnýk;ETKÝN
+35;Ýzmir;1477;Kiraz;ETKÝN
+35;Ýzmir;1521;Menemen;ETKÝN
+35;Ýzmir;1563;Ödemiþ;ETKÝN
+35;Ýzmir;1611;Seferihisar;ETKÝN
+35;Ýzmir;1612;Selçuk;ETKÝN
+35;Ýzmir;1677;Tire;ETKÝN
+35;Ýzmir;1682;Torbalý;ETKÝN
+35;Ýzmir;1703;Urla;ETKÝN
+35;Ýzmir;1776;Beydað;ETKÝN
+35;Ýzmir;1780;Buca;ETKÝN
+35;Ýzmir;1819;Konak;ETKÝN
+35;Ýzmir;1826;Menderes;ETKÝN
+35;Ýzmir;2006;Balçova;ETKÝN
+35;Ýzmir;2007;Çiðli;ETKÝN
+35;Ýzmir;2009;Gaziemir;ETKÝN
+35;Ýzmir;2013;Narlýdere;ETKÝN
+35;Ýzmir;2018;Güzelbahçe;ETKÝN
+35;Ýzmir;2056;Bayraklý;ETKÝN
+35;Ýzmir;2057;Karabaðlar;ETKÝN
+36;Kars;1149;Arpaçay;ETKÝN
+36;Kars;1279;Digor;ETKÝN
+36;Kars;1424;Kaðýzman;ETKÝN
+36;Kars;1447;Kars Merkez;ETKÝN
+36;Kars;1601;Sarýkamýþ;ETKÝN
+36;Kars;1614;Selim;ETKÝN
+36;Kars;1645;Susuz;ETKÝN
+36;Kars;1756;Akyaka;ETKÝN
+37;Kastamonu;1101;Abana;ETKÝN
+37;Kastamonu;1140;Araç;ETKÝN
+37;Kastamonu;1162;Azdavay;ETKÝN
+37;Kastamonu;1208;Bozkurt / Kastamonu;ETKÝN
+37;Kastamonu;1221;Cide;ETKÝN
+37;Kastamonu;1238;Çatalzeytin;ETKÝN
+37;Kastamonu;1264;Daday;ETKÝN
+37;Kastamonu;1277;Devrekani;ETKÝN
+37;Kastamonu;1410;Ýnebolu;ETKÝN
+37;Kastamonu;1450;Kastamonu Merkez;ETKÝN
+37;Kastamonu;1499;Küre;ETKÝN
+37;Kastamonu;1666;Taþköprü;ETKÝN
+37;Kastamonu;1685;Tosya;ETKÝN
+37;Kastamonu;1805;Ýhsangazi;ETKÝN
+37;Kastamonu;1836;Pýnarbaþý / Kastamonu;ETKÝN
+37;Kastamonu;1845;Þenpazar;ETKÝN
+37;Kastamonu;1867;Aðlý;ETKÝN
+37;Kastamonu;1915;Doðanyurt;ETKÝN
+37;Kastamonu;1940;Hanönü;ETKÝN
+37;Kastamonu;1984;Seydiler;ETKÝN
+38;Kayseri;1218;Bünyan;ETKÝN
+38;Kayseri;1275;Develi;ETKÝN
+38;Kayseri;1330;Felahiye;ETKÝN
+38;Kayseri;1409;Ýncesu;ETKÝN
+38;Kayseri;1576;Pýnarbaþý / Kayseri;ETKÝN
+38;Kayseri;1603;Sarýoðlan;ETKÝN
+38;Kayseri;1605;Sarýz;ETKÝN
+38;Kayseri;1680;Tomarza;ETKÝN
+38;Kayseri;1715;Yahyalý;ETKÝN
+38;Kayseri;1727;Yeþilhisar;ETKÝN
+38;Kayseri;1752;Akkýþla;ETKÝN
+38;Kayseri;1846;Talas;ETKÝN
+38;Kayseri;1863;Kocasinan;ETKÝN
+38;Kayseri;1864;Melikgazi;ETKÝN
+38;Kayseri;1936;Hacýlar;ETKÝN
+38;Kayseri;1978;Özvatan;ETKÝN
+39;Kýrklareli;1163;Babaeski;ETKÝN
+39;Kýrklareli;1270;Demirköy;ETKÝN
+39;Kýrklareli;1471;Kýrklareli Merkez;ETKÝN
+39;Kýrklareli;1480;Kofçaz;ETKÝN
+39;Kýrklareli;1505;Lüleburgaz;ETKÝN
+39;Kýrklareli;1572;Pehlivanköy;ETKÝN
+39;Kýrklareli;1577;Pýnarhisar;ETKÝN
+39;Kýrklareli;1714;Vize;ETKÝN
+40;Kýrþehir;1254;Çiçekdaðý;ETKÝN
+40;Kýrþehir;1429;Kaman;ETKÝN
+40;Kýrþehir;1472;Kýrþehir Merkez;ETKÝN
+40;Kýrþehir;1529;Mucur;ETKÝN
+40;Kýrþehir;1754;Akpýnar;ETKÝN
+40;Kýrþehir;1869;Akçakent;ETKÝN
+40;Kýrþehir;1890;Boztepe;ETKÝN
+41;Kocaeli;1338;Gebze;ETKÝN
+41;Kocaeli;1355;Gölcük;ETKÝN
+41;Kocaeli;1430;Kandýra;ETKÝN
+41;Kocaeli;1440;Karamürsel;ETKÝN
+41;Kocaeli;1478;Kocaeli Merkez;ETKÝN DEÐÝL
+41;Kocaeli;1821;Körfez;ETKÝN
+41;Kocaeli;2030;Derince;ETKÝN
+41;Kocaeli;2058;Baþiskele;ETKÝN
+41;Kocaeli;2059;Çayýrova;ETKÝN
+41;Kocaeli;2060;Darýca;ETKÝN
+41;Kocaeli;2061;Dilovasý;ETKÝN
+41;Kocaeli;2062;Ýzmit;ETKÝN
+41;Kocaeli;2063;Kartepe;ETKÝN
+42;Konya;1122;Akþehir;ETKÝN
+42;Konya;1188;Beyþehir;ETKÝN
+42;Konya;1207;Bozkýr;ETKÝN
+42;Konya;1222;Cihanbeyli;ETKÝN
+42;Konya;1262;Çumra;ETKÝN
+42;Konya;1285;Doðanhisar;ETKÝN
+42;Konya;1312;Ereðli / Konya;ETKÝN
+42;Konya;1375;Hadim;ETKÝN
+42;Konya;1400;Ilgýn;ETKÝN
+42;Konya;1422;Kadýnhaný;ETKÝN
+42;Konya;1441;Karapýnar;ETKÝN
+42;Konya;1491;Kulu;ETKÝN
+42;Konya;1598;Sarayönü;ETKÝN
+42;Konya;1617;Seydiþehir;ETKÝN
+42;Konya;1735;Yunak;ETKÝN
+42;Konya;1753;Akören;ETKÝN
+42;Konya;1760;Altýnekin;ETKÝN
+42;Konya;1789;Derebucak;ETKÝN
+42;Konya;1804;Hüyük;ETKÝN
+42;Konya;1814;Karatay;ETKÝN
+42;Konya;1827;Meram;ETKÝN
+42;Konya;1839;Selçuklu;ETKÝN
+42;Konya;1848;Taþkent;ETKÝN
+42;Konya;1868;Ahýrlý;ETKÝN
+42;Konya;1902;Çeltik;ETKÝN
+42;Konya;1907;Derbent;ETKÝN
+42;Konya;1920;Emirgazi;ETKÝN
+42;Konya;1933;Güneysýnýr;ETKÝN
+42;Konya;1937;Halkapýnar;ETKÝN
+42;Konya;1990;Tuzlukçu;ETKÝN
+42;Konya;1994;Yalýhüyük;ETKÝN
+43;Kütahya;1132;Altýntaþ;ETKÝN
+43;Kütahya;1288;Domaniç;ETKÝN
+43;Kütahya;1304;Emet;ETKÝN
+43;Kütahya;1339;Gediz;ETKÝN
+43;Kütahya;1500;Kütahya Merkez;ETKÝN
+43;Kütahya;1625;Simav;ETKÝN
+43;Kütahya;1671;Tavþanlý;ETKÝN
+43;Kütahya;1764;Aslanapa;ETKÝN
+43;Kütahya;1790;Dumlupýnar;ETKÝN
+43;Kütahya;1802;Hisarcýk;ETKÝN
+43;Kütahya;1843;Þaphane;ETKÝN
+43;Kütahya;1898;Çavdarhisar;ETKÝN
+43;Kütahya;1979;Pazarlar;ETKÝN
+44;Malatya;1114;Akçadað;ETKÝN
+44;Malatya;1143;Arapgir;ETKÝN
+44;Malatya;1148;Arguvan;ETKÝN
+44;Malatya;1265;Darende;ETKÝN
+44;Malatya;1286;Doðanþehir;ETKÝN
+44;Malatya;1390;Hekimhan;ETKÝN
+44;Malatya;1509;Malatya Merkez;ETKÝN DEÐÝL
+44;Malatya;1582;Pütürge;ETKÝN
+44;Malatya;1729;Yeþilyurt / Malatya;ETKÝN
+44;Malatya;1772;Battalgazi;ETKÝN
+44;Malatya;1914;Doðanyol;ETKÝN
+44;Malatya;1953;Kale / Malatya;ETKÝN
+44;Malatya;1969;Kuluncak;ETKÝN
+44;Malatya;1995;Yazýhan;ETKÝN
+45;Manisa;1118;Akhisar;ETKÝN
+45;Manisa;1127;Alaþehir;ETKÝN
+45;Manisa;1269;Demirci;ETKÝN
+45;Manisa;1362;Gördes;ETKÝN
+45;Manisa;1470;Kýrkaðaç;ETKÝN
+45;Manisa;1489;Kula;ETKÝN
+45;Manisa;1513;Manisa Merkez;ETKÝN DEÐÝL
+45;Manisa;1590;Salihli;ETKÝN
+45;Manisa;1600;Sarýgöl;ETKÝN
+45;Manisa;1606;Saruhanlý;ETKÝN
+45;Manisa;1613;Selendi;ETKÝN
+45;Manisa;1634;Soma;ETKÝN
+45;Manisa;1689;Turgutlu;ETKÝN
+45;Manisa;1751;Ahmetli;ETKÝN
+45;Manisa;1793;Gölmarmara;ETKÝN
+45;Manisa;1965;Köprübaþý / Manisa;ETKÝN
+45;Manisa;2086;Þehzadeler;ETKÝN
+45;Manisa;2087;Yunusemre;ETKÝN
+46;Kahramanmaraþ;1107;Afþin;ETKÝN
+46;Kahramanmaraþ;1136;Andýrýn;ETKÝN
+46;Kahramanmaraþ;1299;Elbistan;ETKÝN
+46;Kahramanmaraþ;1353;Göksun;ETKÝN
+46;Kahramanmaraþ;1515;Kahramanmaraþ Merkez;ETKÝN DEÐÝL
+46;Kahramanmaraþ;1570;Pazarcýk;ETKÝN
+46;Kahramanmaraþ;1694;Türkoðlu;ETKÝN
+46;Kahramanmaraþ;1785;Çaðlayancerit;ETKÝN
+46;Kahramanmaraþ;1919;Ekinözü;ETKÝN
+46;Kahramanmaraþ;1975;Nurhak;ETKÝN
+46;Kahramanmaraþ;2084;Dulkadiroðlu;ETKÝN
+46;Kahramanmaraþ;2085;Onikiþubat;ETKÝN
+47;Mardin;1273;Derik;ETKÝN
+47;Mardin;1474;Kýzýltepe;ETKÝN
+47;Mardin;1516;Mardin Merkez;ETKÝN DEÐÝL
+47;Mardin;1519;Mazýdaðý;ETKÝN
+47;Mardin;1526;Midyat;ETKÝN
+47;Mardin;1547;Nusaybin;ETKÝN
+47;Mardin;1564;Ömerli;ETKÝN
+47;Mardin;1609;Savur;ETKÝN
+47;Mardin;1787;Dargeçit;ETKÝN
+47;Mardin;2002;Yeþilli;ETKÝN
+47;Mardin;2088;Artuklu;ETKÝN
+48;Muðla;1197;Bodrum;ETKÝN
+48;Muðla;1266;Datça;ETKÝN
+48;Muðla;1331;Fethiye;ETKÝN
+48;Muðla;1488;Köyceðiz;ETKÝN
+48;Muðla;1517;Marmaris;ETKÝN
+48;Muðla;1528;Milas;ETKÝN
+48;Muðla;1532;Muðla Merkez;ETKÝN DEÐÝL
+48;Muðla;1695;Ula;ETKÝN
+48;Muðla;1719;Yataðan;ETKÝN
+48;Muðla;1742;Dalaman;ETKÝN
+48;Muðla;1831;Ortaca;ETKÝN
+48;Muðla;1958;Kavaklýdere;ETKÝN
+48;Muðla;2089;Menteþe;ETKÝN
+48;Muðla;2090;Seydikemer;ETKÝN
+49;Muþ;1213;Bulanýk;ETKÝN
+49;Muþ;1510;Malazgirt;ETKÝN
+49;Muþ;1534;Muþ Merkez;ETKÝN
+49;Muþ;1711;Varto;ETKÝN
+49;Muþ;1801;Hasköy;ETKÝN
+49;Muþ;1964;Korkut;ETKÝN
+50;Nevþehir;1155;Avanos;ETKÝN
+50;Nevþehir;1274;Derinkuyu;ETKÝN
+50;Nevþehir;1367;Gülþehir;ETKÝN
+50;Nevþehir;1374;Hacýbektaþ;ETKÝN
+50;Nevþehir;1485;Kozaklý;ETKÝN
+50;Nevþehir;1543;Nevþehir Merkez;ETKÝN
+50;Nevþehir;1707;Ürgüp;ETKÝN
+50;Nevþehir;1749;Acýgöl;ETKÝN
+51;Niðde;1201;Bor;ETKÝN
+51;Niðde;1225;Çamardý;ETKÝN
+51;Niðde;1544;Niðde Merkez;ETKÝN
+51;Niðde;1700;Ulukýþla;ETKÝN
+51;Niðde;1876;Altunhisar;ETKÝN
+51;Niðde;1904;Çiftlik;ETKÝN
+52;Ordu;1119;Akkuþ;ETKÝN
+52;Ordu;1158;Aybastý;ETKÝN
+52;Ordu;1328;Fatsa;ETKÝN
+52;Ordu;1358;Gölköy;ETKÝN
+52;Ordu;1482;Korgan;ETKÝN
+52;Ordu;1493;Kumru;ETKÝN
+52;Ordu;1525;Mesudiye;ETKÝN
+52;Ordu;1552;Ordu Merkez;ETKÝN DEÐÝL
+52;Ordu;1573;Perþembe;ETKÝN
+52;Ordu;1696;Ulubey / Ordu;ETKÝN
+52;Ordu;1706;Ünye;ETKÝN
+52;Ordu;1795;Gülyalý;ETKÝN
+52;Ordu;1797;Gürgentepe;ETKÝN
+52;Ordu;1891;Çamaþ;ETKÝN
+52;Ordu;1897;Çatalpýnar;ETKÝN
+52;Ordu;1900;Çaybaþý;ETKÝN
+52;Ordu;1947;Ýkizce;ETKÝN
+52;Ordu;1950;Kabadüz;ETKÝN
+52;Ordu;1951;Kabataþ;ETKÝN
+52;Ordu;2103;Altýnordu;ETKÝN
+53;Rize;1146;Ardeþen;ETKÝN
+53;Rize;1228;Çamlýhemþin;ETKÝN
+53;Rize;1241;Çayeli;ETKÝN
+53;Rize;1332;Fýndýklý;ETKÝN
+53;Rize;1405;Ýkizdere;ETKÝN
+53;Rize;1428;Kalkandere;ETKÝN
+53;Rize;1569;Pazar / Rize;ETKÝN
+53;Rize;1586;Rize Merkez;ETKÝN
+53;Rize;1796;Güneysu;ETKÝN
+53;Rize;1908;Derepazarý;ETKÝN
+53;Rize;1943;Hemþin;ETKÝN
+53;Rize;1949;Ýyidere;ETKÝN
+54;Sakarya;1123;Akyazý;ETKÝN
+54;Sakarya;1351;Geyve;ETKÝN
+54;Sakarya;1391;Hendek;ETKÝN
+54;Sakarya;1442;Karasu;ETKÝN
+54;Sakarya;1453;Kaynarca;ETKÝN
+54;Sakarya;1589;Sakarya Merkez;ETKÝN DEÐÝL
+54;Sakarya;1595;Sapanca;ETKÝN
+54;Sakarya;1818;Kocaali;ETKÝN
+54;Sakarya;1833;Pamukova;ETKÝN
+54;Sakarya;1847;Taraklý;ETKÝN
+54;Sakarya;1925;Ferizli;ETKÝN
+54;Sakarya;1955;Karapürçek;ETKÝN
+54;Sakarya;1986;Söðütlü;ETKÝN
+54;Sakarya;2068;Adapazarý;ETKÝN
+54;Sakarya;2069;Arifiye;ETKÝN
+54;Sakarya;2070;Erenler;ETKÝN
+54;Sakarya;2071;Serdivan;ETKÝN
+55;Samsun;1125;Alaçam;ETKÝN
+55;Samsun;1164;Bafra;ETKÝN
+55;Samsun;1234;Çarþamba;ETKÝN
+55;Samsun;1386;Havza;ETKÝN
+55;Samsun;1452;Kavak;ETKÝN
+55;Samsun;1501;Ladik;ETKÝN
+55;Samsun;1593;Samsun Merkez;ETKÝN DEÐÝL
+55;Samsun;1676;Terme;ETKÝN
+55;Samsun;1712;Vezirköprü;ETKÝN
+55;Samsun;1763;Asarcýk;ETKÝN
+55;Samsun;1830;19 Mayýs;ETKÝN
+55;Samsun;1838;Salýpazarý;ETKÝN
+55;Samsun;1849;Tekkeköy;ETKÝN
+55;Samsun;1879;Ayvacýk / Samsun;ETKÝN
+55;Samsun;1993;Yakakent;ETKÝN
+55;Samsun;2072;Atakum;ETKÝN
+55;Samsun;2073;Canik;ETKÝN
+55;Samsun;2074;Ýlkadým;ETKÝN
+56;Siirt;1179;Baykan;ETKÝN
+56;Siirt;1317;Eruh;ETKÝN
+56;Siirt;1495;Kurtalan;ETKÝN
+56;Siirt;1575;Pervari;ETKÝN
+56;Siirt;1620;Siirt Merkez;ETKÝN
+56;Siirt;1662;Þirvan;ETKÝN
+56;Siirt;1878;Tillo;ETKÝN
+57;Sinop;1156;Ayancýk;ETKÝN
+57;Sinop;1204;Boyabat;ETKÝN
+57;Sinop;1290;Duraðan;ETKÝN
+57;Sinop;1314;Erfelek;ETKÝN
+57;Sinop;1349;Gerze;ETKÝN
+57;Sinop;1627;Sinop Merkez;ETKÝN
+57;Sinop;1693;Türkeli;ETKÝN
+57;Sinop;1910;Dikmen;ETKÝN
+57;Sinop;1981;Saraydüzü;ETKÝN
+58;Sivas;1282;Divriði;ETKÝN
+58;Sivas;1342;Gemerek;ETKÝN
+58;Sivas;1373;Gürün;ETKÝN
+58;Sivas;1376;Hafik;ETKÝN
+58;Sivas;1407;Ýmranlý;ETKÝN
+58;Sivas;1431;Kangal;ETKÝN
+58;Sivas;1484;Koyulhisar;ETKÝN
+58;Sivas;1628;Sivas Merkez;ETKÝN
+58;Sivas;1646;Suþehri;ETKÝN
+58;Sivas;1650;Þarkýþla;ETKÝN
+58;Sivas;1731;Yýldýzeli;ETKÝN
+58;Sivas;1738;Zara;ETKÝN
+58;Sivas;1870;Akýncýlar;ETKÝN
+58;Sivas;1875;Altýnyayla / Sivas;ETKÝN
+58;Sivas;1913;Doðanþar;ETKÝN
+58;Sivas;1927;Gölova;ETKÝN
+58;Sivas;1991;Ulaþ;ETKÝN
+59;Tekirdað;1250;Çerkezköy;ETKÝN
+59;Tekirdað;1258;Çorlu;ETKÝN
+59;Tekirdað;1388;Hayrabolu;ETKÝN
+59;Tekirdað;1511;Malkara;ETKÝN
+59;Tekirdað;1538;Muratlý;ETKÝN
+59;Tekirdað;1596;Saray / Tekirdað;ETKÝN
+59;Tekirdað;1652;Þarköy;ETKÝN
+59;Tekirdað;1673;Tekirdað Merkez;ETKÝN DEÐÝL
+59;Tekirdað;1825;Marmaraereðlisi;ETKÝN
+59;Tekirdað;2094;Ergene;ETKÝN
+59;Tekirdað;2095;Kapaklý;ETKÝN
+59;Tekirdað;2096;Süleymanpaþa;ETKÝN
+60;Tokat;1129;Almus;ETKÝN
+60;Tokat;1151;Artova;ETKÝN
+60;Tokat;1308;Erbaa;ETKÝN
+60;Tokat;1545;Niksar;ETKÝN
+60;Tokat;1584;Reþadiye;ETKÝN
+60;Tokat;1679;Tokat Merkez;ETKÝN
+60;Tokat;1690;Turhal;ETKÝN
+60;Tokat;1740;Zile;ETKÝN
+60;Tokat;1834;Pazar / Tokat;ETKÝN
+60;Tokat;1858;Yeþilyurt / Tokat;ETKÝN
+60;Tokat;1883;Baþçiftlik;ETKÝN
+60;Tokat;1987;Sulusaray;ETKÝN
+61;Trabzon;1113;Akçaabat;ETKÝN
+61;Trabzon;1141;Araklý;ETKÝN
+61;Trabzon;1150;Arsin;ETKÝN
+61;Trabzon;1244;Çaykara;ETKÝN
+61;Trabzon;1507;Maçka;ETKÝN
+61;Trabzon;1548;Of;ETKÝN
+61;Trabzon;1647;Sürmene;ETKÝN
+61;Trabzon;1681;Tonya;ETKÝN
+61;Trabzon;1686;Trabzon Merkez;ETKÝN DEÐÝL
+61;Trabzon;1709;Vakfýkebir;ETKÝN
+61;Trabzon;1732;Yomra;ETKÝN
+61;Trabzon;1775;Beþikdüzü;ETKÝN
+61;Trabzon;1842;Þalpazarý;ETKÝN
+61;Trabzon;1896;Çarþýbaþý;ETKÝN
+61;Trabzon;1909;Dernekpazarý;ETKÝN
+61;Trabzon;1917;Düzköy;ETKÝN
+61;Trabzon;1942;Hayrat;ETKÝN
+61;Trabzon;1966;Köprübaþý / Trabzon;ETKÝN
+61;Trabzon;2097;Ortahisar;ETKÝN
+62;Tunceli;1247;Çemiþgezek;ETKÝN
+62;Tunceli;1397;Hozat;ETKÝN
+62;Tunceli;1518;Mazgirt;ETKÝN
+62;Tunceli;1541;Nazýmiye;ETKÝN
+62;Tunceli;1562;Ovacýk / Tunceli;ETKÝN
+62;Tunceli;1574;Pertek;ETKÝN
+62;Tunceli;1581;Pülümür;ETKÝN
+62;Tunceli;1688;Tunceli Merkez;ETKÝN
+63;Þanlýurfa;1115;Akçakale;ETKÝN
+63;Þanlýurfa;1194;Birecik;ETKÝN
+63;Þanlýurfa;1209;Bozova;ETKÝN
+63;Þanlýurfa;1220;Ceylanpýnar;ETKÝN
+63;Þanlýurfa;1378;Halfeti;ETKÝN
+63;Þanlýurfa;1393;Hilvan;ETKÝN
+63;Þanlýurfa;1630;Siverek;ETKÝN
+63;Þanlýurfa;1643;Suruç;ETKÝN
+63;Þanlýurfa;1702;Þanlýurfa Merkez;ETKÝN DEÐÝL
+63;Þanlýurfa;1713;Viranþehir;ETKÝN
+63;Þanlýurfa;1800;Harran;ETKÝN
+63;Þanlýurfa;2091;Eyyübiye;ETKÝN
+63;Þanlýurfa;2092;Haliliye;ETKÝN
+63;Þanlýurfa;2093;Karaköprü;ETKÝN
+64;Uþak;1170;Banaz;ETKÝN
+64;Uþak;1323;Eþme;ETKÝN
+64;Uþak;1436;Karahallý;ETKÝN
+64;Uþak;1629;Sivaslý;ETKÝN
+64;Uþak;1697;Ulubey / Uþak;ETKÝN
+64;Uþak;1704;Uþak Merkez;ETKÝN
+65;Van;1175;Baþkale;ETKÝN
+65;Van;1236;Çatak;ETKÝN
+65;Van;1309;Erciþ;ETKÝN
+65;Van;1350;Gevaþ;ETKÝN
+65;Van;1372;Gürpýnar;ETKÝN
+65;Van;1533;Muradiye;ETKÝN
+65;Van;1565;Özalp;ETKÝN
+65;Van;1710;Van Merkez;ETKÝN DEÐÝL
+65;Van;1770;Bahçesaray;ETKÝN
+65;Van;1786;Çaldýran;ETKÝN
+65;Van;1918;Edremit / Van;ETKÝN
+65;Van;1980;Saray / Van;ETKÝN
+65;Van;2098;Ýpekyolu;ETKÝN
+65;Van;2099;Tuþba;ETKÝN
+66;Yozgat;1117;Akdaðmadeni;ETKÝN
+66;Yozgat;1198;Boðazlýyan;ETKÝN
+66;Yozgat;1242;Çayýralan;ETKÝN
+66;Yozgat;1245;Çekerek;ETKÝN
+66;Yozgat;1602;Sarýkaya;ETKÝN
+66;Yozgat;1635;Sorgun;ETKÝN
+66;Yozgat;1655;Þefaatli;ETKÝN
+66;Yozgat;1726;Yerköy;ETKÝN
+66;Yozgat;1733;Yozgat Merkez;ETKÝN
+66;Yozgat;1877;Aydýncýk / Yozgat;ETKÝN
+66;Yozgat;1895;Çandýr;ETKÝN
+66;Yozgat;1952;Kadýþehri;ETKÝN
+66;Yozgat;1982;Saraykent;ETKÝN
+66;Yozgat;1998;Yenifakýlý;ETKÝN
+67;Zonguldak;1240;Çaycuma;ETKÝN
+67;Zonguldak;1276;Devrek;ETKÝN
+67;Zonguldak;1313;Ereðli / Zonguldak;ETKÝN
+67;Zonguldak;1741;Zonguldak Merkez;ETKÝN
+67;Zonguldak;1758;Alaplý;ETKÝN
+67;Zonguldak;1926;Gökçebey;ETKÝN
+67;Zonguldak;2100;Kilimli;ETKÝN
+67;Zonguldak;2101;Kozlu;ETKÝN
+68;Aksaray;1120;Aksaray Merkez;ETKÝN
+68;Aksaray;1557;Ortaköy / Aksaray;ETKÝN
+68;Aksaray;1860;Aðaçören;ETKÝN
+68;Aksaray;1861;Güzelyurt;ETKÝN
+68;Aksaray;1866;Sarýyahþi;ETKÝN
+68;Aksaray;1921;Eskil;ETKÝN
+68;Aksaray;1932;Gülaðaç;ETKÝN
+68;Aksaray;2106;Sultanhaný;ETKÝN DEÐÝL
+69;Bayburt;1176;Bayburt Merkez;ETKÝN
+69;Bayburt;1767;Aydýntepe;ETKÝN
+69;Bayburt;1788;Demirözü;ETKÝN
+70;Karaman;1316;Ermenek;ETKÝN
+70;Karaman;1439;Karaman Merkez;ETKÝN
+70;Karaman;1768;Ayrancý;ETKÝN
+70;Karaman;1862;Kazýmkarabekir;ETKÝN
+70;Karaman;1884;Baþyayla;ETKÝN
+70;Karaman;1983;Sarýveliler;ETKÝN
+71;Kýrýkkale;1268;Delice;ETKÝN
+71;Kýrýkkale;1463;Keskin;ETKÝN
+71;Kýrýkkale;1469;Kýrýkkale Merkez;ETKÝN
+71;Kýrýkkale;1638;Sulakyurt;ETKÝN
+71;Kýrýkkale;1880;Bahþili;ETKÝN
+71;Kýrýkkale;1882;Balýþeyh;ETKÝN
+71;Kýrýkkale;1901;Çelebi;ETKÝN
+71;Kýrýkkale;1954;Karakeçili;ETKÝN
+71;Kýrýkkale;1992;Yahþihan;ETKÝN
+72;Batman;1174;Batman Merkez;ETKÝN
+72;Batman;1184;Beþiri;ETKÝN
+72;Batman;1345;Gercüþ;ETKÝN
+72;Batman;1487;Kozluk;ETKÝN
+72;Batman;1607;Sason;ETKÝN
+72;Batman;1941;Hasankeyf;ETKÝN
+73;Þýrnak;1189;Beytüþþebap;ETKÝN
+73;Þýrnak;1223;Cizre;ETKÝN
+73;Þýrnak;1403;Ýdil;ETKÝN
+73;Þýrnak;1623;Silopi;ETKÝN
+73;Þýrnak;1661;Þýrnak Merkez;ETKÝN
+73;Þýrnak;1698;Uludere;ETKÝN
+73;Þýrnak;1931;Güçlükonak;ETKÝN
+74;Bartýn;1172;Bartýn Merkez;ETKÝN
+74;Bartýn;1496;Kurucaþile;ETKÝN
+74;Bartýn;1701;Ulus;ETKÝN
+74;Bartýn;1761;Amasra;ETKÝN
+75;Ardahan;1144;Ardahan Merkez;ETKÝN
+75;Ardahan;1252;Çýldýr;ETKÝN
+75;Ardahan;1356;Göle;ETKÝN
+75;Ardahan;1380;Hanak;ETKÝN
+75;Ardahan;1579;Posof;ETKÝN
+75;Ardahan;2008;Damal;ETKÝN
+76;Iðdýr;1142;Aralýk;ETKÝN
+76;Iðdýr;1398;Iðdýr Merkez;ETKÝN
+76;Iðdýr;1692;Tuzluca;ETKÝN
+76;Iðdýr;2011;Karakoyunlu;ETKÝN
+77;Yalova;1716;Yalova Merkez;ETKÝN
+77;Yalova;2019;Altýnova;ETKÝN
+77;Yalova;2020;Armutlu;ETKÝN
+77;Yalova;2021;Çýnarcýk;ETKÝN
+77;Yalova;2022;Çiftlikköy;ETKÝN
+77;Yalova;2026;Termal;ETKÝN
+78;Karabük;1296;Eflani;ETKÝN
+78;Karabük;1321;Eskipazar;ETKÝN
+78;Karabük;1433;Karabük Merkez;ETKÝN
+78;Karabük;1561;Ovacýk / Karabük;ETKÝN
+78;Karabük;1587;Safranbolu;ETKÝN
+78;Karabük;1856;Yenice / Karabük;ETKÝN
+79;Kilis;1476;Kilis Merkez;ETKÝN
+79;Kilis;2023;Elbeyli;ETKÝN
+79;Kilis;2024;Musabeyli;ETKÝN
+79;Kilis;2025;Polateli;ETKÝN
+80;Osmaniye;1165;Bahçe;ETKÝN
+80;Osmaniye;1423;Kadirli;ETKÝN
+80;Osmaniye;1560;Osmaniye Merkez;ETKÝN
+80;Osmaniye;1743;Düziçi;ETKÝN
+80;Osmaniye;2027;Hasanbeyli;ETKÝN
+80;Osmaniye;2028;Sumbas;ETKÝN
+80;Osmaniye;2029;Toprakkale;ETKÝN
+81;Düzce;1116;Akçakoca;ETKÝN
+81;Düzce;1292;Düzce Merkez;ETKÝN
+81;Düzce;1730;Yýðýlca;ETKÝN
+81;Düzce;1784;Cumayeri;ETKÝN
+81;Düzce;1794;Gölyaka;ETKÝN
+81;Düzce;1905;Çilimli;ETKÝN
+81;Düzce;2017;Gümüþova;ETKÝN
+81;Düzce;2031;Kaynaþlý;ETKÝN

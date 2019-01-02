@@ -1,0 +1,5273 @@
+1
+01 ADANA
+Merkez
+1250
+Adana Ýhtisas Vergi Dairesi Müdürlüðü
+2
+01 ADANA
+Merkez
+1251
+5 Ocak Vergi Dairesi Müdürlüðü
+3
+01 ADANA
+Merkez
+1252
+Yüreðir Vergi Dairesi Müdürlüðü
+4
+01 ADANA
+Merkez
+1253
+Seyhan Vergi Dairesi Müdürlüðü
+5
+01 ADANA
+Merkez
+1254
+Ziyapaþa Vergi Dairesi Müdürlüðü
+6
+01 ADANA
+Merkez
+1255
+Çukurova Vergi Dairesi Müdürlüðü
+7
+01 ADANA
+Ceyhan
+1201
+Ceyhan Vergi Dairesi Müdürlüðü
+8
+01 ADANA
+Kozan
+1203
+Kozan Vergi Dairesi Müdürlüðü
+9
+01 ADANA
+Karataþ
+1205
+Karataþ Vergi Dairesi Müdürlüðü
+10
+01 ADANA
+Feke
+1103
+Feke Malmüdürlüðü
+11
+01 ADANA
+Karaisalý
+1105
+Karaisalý Malmüdürlüðü
+12
+01 ADANA
+Pozantý
+1109
+Pozantý Malmüdürlüðü
+13
+01 ADANA
+Saimbeyli
+1110
+Saimbeyli Malmüdürlüðü
+14
+01 ADANA
+Tufanbeyli
+1111
+Tufanbeyli Malmüdürlüðü
+15
+01 ADANA
+Yumurtalýk
+1112
+Yumurtalýk Malmüdürlüðü
+16
+01 ADANA
+Aladað
+1114
+Aladað Malmüdürlüðü
+17
+01 ADANA
+Ýmamoðlu
+1115
+Ýmamoðlu Malmüdürlüðü
+18
+02 ADIYAMAN
+Merkez
+2260
+Adýyaman Vergi Dairesi Müdürlüðü
+19
+02 ADIYAMAN
+Kahta
+2261
+Kahta Vergi Dairesi Müdürlüðü
+20
+02 ADIYAMAN
+Besni
+2101
+Besni Malmüdürlüðü
+21
+02 ADIYAMAN
+Çelikhan
+2102
+Çelikhan Malmüdürlüðü
+22
+02 ADIYAMAN
+Gerger
+2103
+Gerger Malmüdürlüðü
+23
+02 ADIYAMAN
+Gölbaþý
+2104
+Gölbaþý Malmüdürlüðü
+24
+02 ADIYAMAN
+Samsat
+2106
+Samsat Malmüdürlüðü
+25
+02 ADIYAMAN
+Sincik
+2107
+Sincik Malmüdürlüðü
+26
+02 ADIYAMAN
+Tut
+2108
+Tut Malmüdürlüðü
+27
+03 AFYONKARAHÝSAR
+Merkez
+3201
+Týnaztepe Vergi Dairesi Müdürlüðü
+28
+03 AFYONKARAHÝSAR
+Merkez
+3280
+Kocatepe Vergi Dairesi Müdürlüðü
+29
+03 AFYONKARAHÝSAR
+Dinar
+3260
+Dinar Vergi Dairesi Müdürlüðü
+30
+03 AFYONKARAHÝSAR
+Bolvadin
+3261
+Bolvadin Vergi Dairesi Müdürlüðü
+31
+03 AFYONKARAHÝSAR
+Emirdað
+3262
+Emirdað Vergi Dairesi Müdürlüðü
+32
+03 AFYONKARAHÝSAR
+Sandýklý
+3263
+Sandýklý Vergi Dairesi Müdürlüðü
+33
+03 AFYONKARAHÝSAR
+Çay
+3202
+Çay Vergi Dairesi Müdürlüðü
+34
+03 AFYONKARAHÝSAR
+Dazkýrý
+3103
+Dazkýrý Malmüdürlüðü
+35
+03 AFYONKARAHÝSAR
+Ýhsaniye
+3105
+Ýhsaniye Malmüdürlüðü
+36
+03 AFYONKARAHÝSAR
+Sinanpaþa
+3107
+Sinanpaþa Malmüdürlüðü
+37
+03 AFYONKARAHÝSAR
+Sultandaðý
+3108
+Sultandaðý Malmüdürlüðü
+38
+03 AFYONKARAHÝSAR
+Þuhut
+3109
+Þuhut Malmüdürlüðü
+39
+03 AFYONKARAHÝSAR
+Baþmakçý
+3111
+Baþmakçý Malmüdürlüðü
+40
+03 AFYONKARAHÝSAR
+Bayat
+3112
+Bayat Malmüdürlüðü
+41
+03 AFYONKARAHÝSAR
+Ýscehisar
+3264
+Ýscehisar Vergi Dairesi Müdürlüðü
+42
+03 AFYONKARAHÝSAR
+Çobanlar
+3114
+Çobanlar Malmüdürlüðü
+43
+03 AFYONKARAHÝSAR
+Evciler
+3115
+Evciler Malmüdürlüðü
+44
+03 AFYONKARAHÝSAR
+Hocalar
+3116
+Hocalar Malmüdürlüðü
+45
+03 AFYONKARAHÝSAR
+Kýzýlören
+3117
+Kýzýlören Malmüdürlüðü
+46
+04 AÐRI
+Merkez
+4260
+Aðrý Vergi Dairesi Müdürlüðü
+47
+04 AÐRI
+Doðubeyazýt
+4261
+Doðubeyazýt Vergi Dairesi Müdürlüðü
+48
+04 AÐRI
+Patnos
+4262
+Patnos Vergi Dairesi Müdürlüðü
+49
+04 AÐRI
+Diyadin
+4101
+Diyadin Malmüdürlüðü
+50
+04 AÐRI
+Eleþkirt
+4103
+Eleþkirt Malmüdürlüðü
+51
+04 AÐRI
+Hamur
+4104
+Hamur Malmüdürlüðü
+52
+04 AÐRI
+Taþlýçay
+4106
+Taþlýçay Malmüdürlüðü
+53
+04 AÐRI
+Tutak
+4107
+Tutak Malmüdürlüðü
+54
+05 AMASYA
+Merkez
+5260
+Amasya Vergi Dairesi Müdürlüðü
+55
+05 AMASYA
+Merzifon
+5261
+Merzifon Vergi Dairesi Müdürlüðü
+56
+05 AMASYA
+Gümüþhacýköy
+5262
+Gümüþhacýköy Vergi Dairesi Müdürlüðü
+57
+05 AMASYA
+Taþova
+5263
+Taþova Vergi Dairesi Müdürlüðü
+58
+05 AMASYA
+Suluova
+5264
+Suluova Vergi Dairesi Müdürlüðü
+59
+05 AMASYA
+Göynücek
+5101
+Göynücek Malmüdürlüðü
+60
+05 AMASYA
+Hamamözü
+5106
+Hamamözü Malmüdürlüðü
+SIRA NO.
+VERGÝ DAÝRESÝ MÜDÜRLÜKLERÝ / MALMÜDÜRLÜKLERÝ LÝSTESÝ
+ÝL
+ÝLÇE
+SAY. KODU
+VERGÝ DAÝRESÝ
+1 15.11.2017
+SIRA NO.
+ÝL
+ÝLÇE
+SAY. KODU
+VERGÝ DAÝRESÝ
+61
+06 ANKARA
+Merkez
+6280
+Anadolu Ýhtisas Vergi Dairesi Müdürlüðü
+62
+06 ANKARA
+Merkez
+6281
+Ankara Ýhtisas Vergi Dairesi Müdürlüðü
+63
+06 ANKARA
+Merkez
+6253
+Kavaklýdere Vergi Dairesi Müdürlüðü
+64
+06 ANKARA
+Merkez
+6268
+Hitit Vergi Dairesi Müdürlüðü
+65
+06 ANKARA
+Merkez
+6271
+Ostim Vergi Dairesi Müdürlüðü
+66
+06 ANKARA
+Merkez
+6252
+Veraset ve Harçlar Vergi Dairesi Müdürlüðü
+67
+06 ANKARA
+Merkez
+6254
+Maltepe Vergi Dairesi Müdürlüðü
+68
+06 ANKARA
+Merkez
+6255
+Yenimahalle Vergi Dairesi Müdürlüðü
+69
+06 ANKARA
+Merkez
+6257
+Çankaya Vergi Dairesi Müdürlüðü
+70
+06 ANKARA
+Merkez
+6258
+Kýzýlbey Vergi Dairesi Müdürlüðü
+71
+06 ANKARA
+Merkez
+6259
+Mithatpaþa Vergi Dairesi Müdürlüðü
+72
+06 ANKARA
+Merkez
+6260
+Ulus Vergi Dairesi Müdürlüðü
+73
+06 ANKARA
+Merkez
+6261
+Yýldýrým Beyazýt Vergi Dairesi Müdürlüðü
+74
+06 ANKARA
+Merkez
+6262
+Seðmenler Vergi Dairesi Müdürlüðü
+75
+06 ANKARA
+Merkez
+6264
+Dikimevi Vergi Dairesi Müdürlüðü
+76
+06 ANKARA
+Merkez
+6265
+Doðanbey Vergi Dairesi Müdürlüðü
+77
+06 ANKARA
+Merkez
+6266
+Yeðenbey Vergi Dairesi Müdürlüðü
+78
+06 ANKARA
+Merkez
+6269
+Yahya Galip Vergi Dairesi Müdürlüðü
+79
+06 ANKARA
+Merkez
+6270
+Muhammet Karagüzel Vergi Dairesi Müdürlüðü
+80
+06 ANKARA
+Merkez
+6272
+Gölbaþý Vergi Dairesi Müdürlüðü
+81
+06 ANKARA
+Merkez
+6273
+Sincan Vergi Dairesi Müdürlüðü
+82
+06 ANKARA
+Merkez
+6274
+Dýþkapý Vergi Dairesi Müdürlüðü
+83
+06 ANKARA
+Merkez
+6275
+Etimesgut Vergi Dairesi Müdürlüðü
+84
+06 ANKARA
+Merkez
+6276
+Baþkent Vergi Dairesi Müdürlüðü
+85
+06 ANKARA
+Merkez
+6277
+Cumhuriyet Vergi Dairesi Müdürlüðü
+86
+06 ANKARA
+Merkez
+6278
+Keçiören Vergi Dairesi Müdürlüðü
+87
+06 ANKARA
+Merkez- (5216)
+6279
+Kahramankazan Vergi Dairesi Müdürlüðü
+88
+06 ANKARA
+Polatlý
+6205
+Polatlý Vergi Dairesi Müdürlüðü
+89
+06 ANKARA
+Þereflikoçhisar
+6207
+Þereflikoçhisar Vergi Dairesi Müdürlüðü
+90
+06 ANKARA
+Beypazarý
+6209
+Beypazarý Vergi Dairesi Müdürlüðü
+91
+06 ANKARA
+Merkez- (5216)
+6211
+Çubuk Vergi Dairesi Müdürlüðü
+92
+06 ANKARA
+Haymana
+6213
+Haymana Vergi Dairesi Müdürlüðü
+93
+06 ANKARA
+Merkez- (5216)
+6215
+Elmadað Vergi Dairesi Müdürlüðü
+94
+06 ANKARA
+Merkez- (5216)
+6102
+Ayaþ Malmüdürlüðü
+95
+06 ANKARA
+Merkez- (5216)
+6103
+Balâ Malmüdürlüðü
+96
+06 ANKARA
+Çamlýdere
+6106
+Çamlýdere Malmüdürlüðü
+97
+06 ANKARA
+Güdül
+6110
+Güdül Malmüdürlüðü
+98
+06 ANKARA
+Merkez- (5216)
+6112
+Kalecik Malmüdürlüðü
+99
+06 ANKARA
+Kýzýlcahamam
+6115
+Kýzýlcahamam Malmüdürlüðü
+100
+06 ANKARA
+Nallýhan
+6117
+Nallýhan Malmüdürlüðü
+101
+06 ANKARA
+Merkez- (5216)
+6125
+Akyurt Malmüdürlüðü
+102
+06 ANKARA
+Evren
+6127
+Evren Malmüdürlüðü
+103
+07 ANTALYA
+Merkez
+7255
+Antalya Kurumlar Vergi Dairesi Müdürlüðü
+104
+07 ANTALYA
+Merkez
+7256
+Antalya Ýhtisas Vergi Dairesi Müdürlüðü
+105
+07 ANTALYA
+Merkez
+7251
+Üçkapýlar Vergi Dairesi Müdürlüðü
+106
+07 ANTALYA
+Merkez
+7252
+Kalekapý Vergi Dairesi Müdürlüðü
+107
+07 ANTALYA
+Merkez
+7253
+Muratpaþa Vergi Dairesi Müdürlüðü
+108
+07 ANTALYA
+Merkez
+7254
+Düden Vergi Dairesi Müdürlüðü
+109
+07 ANTALYA
+Alanya
+7201
+Alanya Vergi Dairesi Müdürlüðü
+110
+07 ANTALYA
+Serik
+7202
+Serik Vergi Dairesi Müdürlüðü
+111
+07 ANTALYA
+Manavgat
+7203
+Manavgat Vergi Dairesi Müdürlüðü
+112
+07 ANTALYA
+Elmalý
+7204
+Elmalý Vergi Dairesi Müdürlüðü
+113
+07 ANTALYA
+Kemer
+7205
+Kemer Vergi Dairesi Müdürlüðü
+114
+07 ANTALYA
+Kumluca
+7206
+Kumluca Vergi Dairesi Müdürlüðü
+115
+07 ANTALYA
+Finike
+7104
+Finike Malmüdürlüðü
+116
+07 ANTALYA
+Akseki
+7101
+Akseki Malmüdürlüðü
+117
+07 ANTALYA
+Gazipaþa
+7105
+Gazipaþa Malmüdürlüðü
+118
+07 ANTALYA
+Gündoðmuþ
+7106
+Gündoðmuþ Malmüdürlüðü
+119
+07 ANTALYA
+Kaþ
+7107
+Kaþ Malmüdürlüðü
+120
+07 ANTALYA
+Korkuteli
+7108
+Korkuteli Malmüdürlüðü
+121
+07 ANTALYA
+Demre
+7112
+Demre Malmüdürlüðü
+122
+07 ANTALYA
+Ýbradý
+7113
+Ýbradý Malmüdürlüðü
+123
+08 ARTVÝN
+Merkez
+8260
+Artvin Vergi Dairesi Müdürlüðü
+2 15.11.2017
+SIRA NO.
+ÝL
+ÝLÇE
+SAY. KODU
+VERGÝ DAÝRESÝ
+124
+08 ARTVÝN
+Hopa
+8261
+Hopa Vergi Dairesi Müdürlüðü
+125
+08 ARTVÝN
+Arhavi
+8262
+Arhavi Vergi Dairesi Müdürlüðü
+126
+08 ARTVÝN
+Ardanuç
+8101
+Ardanuç Malmüdürlüðü
+127
+08 ARTVÝN
+Borçka
+8103
+Borçka Malmüdürlüðü
+128
+08 ARTVÝN
+Þavþat
+8105
+Þavþat Malmüdürlüðü
+129
+08 ARTVÝN
+Yusufeli
+8106
+Yusufeli Malmüdürlüðü
+130
+08 ARTVÝN
+Murgul
+8107
+Murgul Malmüdürlüðü
+131
+09 AYDIN
+Merkez
+9201
+Efeler Vergi Dairesi Müdürlüðü
+132
+09 AYDIN
+Merkez
+9280
+Güzelhisar Vergi Dairesi Müdürlüðü
+133
+09 AYDIN
+Nazilli
+9260
+Nazilli Vergi Dairesi Müdürlüðü
+134
+09 AYDIN
+Söke
+9261
+Söke Vergi Dairesi Müdürlüðü
+135
+09 AYDIN
+Çine
+9262
+Çine Vergi Dairesi Müdürlüðü
+136
+09 AYDIN
+Germencik
+9263
+Germencik Vergi Dairesi Müdürlüðü
+137
+09 AYDIN
+Kuþadasý
+9265
+Kuþadasý Vergi Dairesi Müdürlüðü
+138
+09 AYDIN
+Didim
+9281
+Didim Vergi Dairesi Müdürlüðü
+139
+09 AYDIN
+Bozdoðan
+9101
+Bozdoðan Malmüdürlüðü
+140
+09 AYDIN
+Karacasu
+9104
+Karacasu Malmüdürlüðü
+141
+09 AYDIN
+Koçarlý
+9105
+Koçarlý Malmüdürlüðü
+142
+09 AYDIN
+Kuyucak
+9107
+Kuyucak Malmüdürlüðü
+143
+09 AYDIN
+Sultanhisar
+9110
+Sultanhisar Malmüdürlüðü
+144
+09 AYDIN
+Yenipazar
+9111
+Yenipazar Malmüdürlüðü
+145
+09 AYDIN
+Buharkent
+9112
+Buharkent Malmüdürlüðü
+146
+09 AYDIN
+Ýncirliova
+9113
+Ýncirliova Malmüdürlüðü
+147
+09 AYDIN
+Karpuzlu
+9114
+Karpuzlu Malmüdürlüðü
+148
+09 AYDIN
+Köþk
+9115
+Köþk Malmüdürlüðü
+149
+10 BALIKESÝR
+Merkez
+10201
+Karesi Vergi Dairesi Müdürlüðü
+150
+10 BALIKESÝR
+Merkez
+10280
+Kurtdereli Vergi Dairesi Müdürlüðü
+151
+10 BALIKESÝR
+Ayvalýk
+10260
+Ayvalýk Vergi Dairesi Müdürlüðü
+152
+10 BALIKESÝR
+Bandýrma
+10261
+Bandýrma Vergi Dairesi Müdürlüðü
+153
+10 BALIKESÝR
+Burhaniye
+10262
+Burhaniye Vergi Dairesi Müdürlüðü
+154
+10 BALIKESÝR
+Edremit
+10263
+Edremit Vergi Dairesi Müdürlüðü
+155
+10 BALIKESÝR
+Gönen
+10264
+Gönen Vergi Dairesi Müdürlüðü
+156
+10 BALIKESÝR
+Susurluk
+10265
+Susurluk Vergi Dairesi Müdürlüðü
+157
+10 BALIKESÝR
+Erdek
+10266
+Erdek Vergi Dairesi Müdürlüðü
+158
+10 BALIKESÝR
+Bigadiç
+10267
+Bigadiç Vergi Dairesi Müdürlüðü
+159
+10 BALIKESÝR
+Sýndýrgý
+10268
+Sýndýrgý Vergi Dairesi Müdürlüðü
+160
+10 BALIKESÝR
+Dursunbey
+10269
+Dursunbey Vergi Dairesi Müdürlüðü
+161
+10 BALIKESÝR
+Balya
+10102
+Balya Malmüdürlüðü
+162
+10 BALIKESÝR
+Havran
+10110
+Havran Malmüdürlüðü
+163
+10 BALIKESÝR
+Ývrindi
+10111
+Ývrindi Malmüdürlüðü
+164
+10 BALIKESÝR
+Kepsut
+10112
+Kepsut Malmüdürlüðü
+165
+10 BALIKESÝR
+Manyas
+10113
+Manyas Malmüdürlüðü
+166
+10 BALIKESÝR
+Savaþtepe
+10114
+Savaþtepe Malmüdürlüðü
+167
+10 BALIKESÝR
+Marmara
+10117
+Marmara Malmüdürlüðü
+168
+10 BALIKESÝR
+Gömeç
+10118
+Gömeç Malmüdürlüðü
+169
+11 BÝLECÝK
+Merkez
+11260
+Bilecik Vergi Dairesi Müdürlüðü
+170
+11 BÝLECÝK
+Bozüyük
+11261
+Bozüyük Vergi Dairesi Müdürlüðü
+171
+11 BÝLECÝK
+Gölpazarý
+11102
+Gölpazarý Malmüdürlüðü
+172
+11 BÝLECÝK
+Osmaneli
+11103
+Osmaneli Malmüdürlüðü
+173
+11 BÝLECÝK
+Pazaryeri
+11104
+Pazaryeri Malmüdürlüðü
+174
+11 BÝLECÝK
+Söðüt
+11105
+Söðüt Malmüdürlüðü
+175
+11 BÝLECÝK
+Yenipazar
+11106
+Yenipazar Malmüdürlüðü
+176
+11 BÝLECÝK
+Ýnhisar
+11107
+Ýnhisar Malmüdürlüðü
+177
+12 BÝNGÖL
+Merkez
+12260
+Bingöl Vergi Dairesi Müdürlüðü
+178
+12 BÝNGÖL
+Genç
+12101
+Genç Malmüdürlüðü
+179
+12 BÝNGÖL
+Karlýova
+12102
+Karlýova Malmüdürlüðü
+180
+12 BÝNGÖL
+Kiðý
+12103
+Kiðý Malmüdürlüðü
+181
+12 BÝNGÖL
+Solhan
+12104
+Solhan Malmüdürlüðü
+182
+12 BÝNGÖL
+Adaklý
+12105
+Adaklý Malmüdürlüðü
+183
+12 BÝNGÖL
+Yayladere
+12106
+Yayladere Malmüdürlüðü
+184
+12 BÝNGÖL
+Yedisu
+12107
+Yedisu Malmüdürlüðü
+185
+13 BÝTLÝS
+Merkez
+13260
+Bitlis Vergi Dairesi Müdürlüðü
+186
+13 BÝTLÝS
+Tatvan
+13261
+Tatvan Vergi Dairesi Müdürlüðü
+3 15.11.2017
+SIRA NO.
+ÝL
+ÝLÇE
+SAY. KODU
+VERGÝ DAÝRESÝ
+187
+13 BÝTLÝS
+Adilcevaz
+13101
+Adilcevaz Malmüdürlüðü
+188
+13 BÝTLÝS
+Ahlat
+13102
+Ahlat Malmüdürlüðü
+189
+13 BÝTLÝS
+Hizan
+13103
+Hizan Malmüdürlüðü
+190
+13 BÝTLÝS
+Mutki
+13104
+Mutki Malmüdürlüðü
+191
+13 BÝTLÝS
+Göroymak
+13106
+Güroymak Malmüdürlüðü
+192
+14 BOLU
+Merkez
+14260
+Bolu Vergi Dairesi Müdürlüðü
+193
+14 BOLU
+Gerede
+14262
+Gerede Vergi Dairesi Müdürlüðü
+194
+14 BOLU
+Göynük
+14104
+Göynük Malmüdürlüðü
+195
+14 BOLU
+Kýbrýscýk
+14105
+Kýbrýscýk Malmüdürlüðü
+196
+14 BOLU
+Mengen
+14106
+Mengen Malmüdürlüðü
+197
+14 BOLU
+Mudurnu
+14107
+Mudurnu Malmüdürlüðü
+198
+14 BOLU
+Seben
+14108
+Seben Malmüdürlüðü
+199
+14 BOLU
+Dörtdivan
+14113
+Dörtdivan Malmüdürlüðü
+200
+14 BOLU
+Yeniçaða
+14114
+Yeniçaða Malmüdürlüðü
+201
+15 BURDUR
+Merkez
+15260
+Burdur Vergi Dairesi Müdürlüðü
+202
+15 BURDUR
+Bucak
+15261
+Bucak Vergi Dairesi Müdürlüðü
+203
+15 BURDUR
+Aðlasun
+15101
+Aðlasun Malmüdürlüðü
+204
+15 BURDUR
+Gölhisar
+15103
+Gölhisar Malmüdürlüðü
+205
+15 BURDUR
+Tefenni
+15104
+Tefenni Malmüdürlüðü
+206
+15 BURDUR
+Yeþilova
+15105
+Yeþilova Malmüdürlüðü
+207
+15 BURDUR
+Karamanlý
+15106
+Karamanlý Malmüdürlüðü
+208
+15 BURDUR
+Kemer
+15107
+Kemer Malmüdürlüðü
+209
+15 BURDUR
+Altýnyayla
+15108
+Altýnyayla Malmüdürlüðü
+210
+15 BURDUR
+Çavdýr
+15109
+Çavdýr Malmüdürlüðü
+211
+15 BURDUR
+Çeltikçi
+15110
+Çeltikçi Malmüdürlüðü
+212
+16 BURSA
+Merkez
+16250
+Bursa Ýhtisas Vergi Dairesi Müdürlüðü
+213
+16 BURSA
+Merkez
+16251
+Osmangazi Vergi Dairesi Müdürlüðü
+214
+16 BURSA
+Merkez
+16252
+Yýldýrým Vergi Dairesi Müdürlüðü
+215
+16 BURSA
+Merkez
+16253
+Çekirge Vergi Dairesi Müdürlüðü
+216
+16 BURSA
+Merkez
+16254
+Setbaþý Vergi Dairesi Müdürlüðü
+217
+16 BURSA
+Merkez
+16255
+Uludað Vergi Dairesi Müdürlüðü
+218
+16 BURSA
+Merkez
+16256
+Yeþil Vergi Dairesi Müdürlüðü
+219
+16 BURSA
+Merkez
+16257
+Nilüfer Vergi Dairesi Müdürlüðü
+220
+16 BURSA
+Merkez
+16258
+Ertuðrulgazi Vergi Dairesi Müdürlüðü
+221
+16 BURSA
+Merkez
+16259
+Gökdere Vergi Dairesi Müdürlüðü
+222
+16 BURSA
+Merkez- (5216)
+16201
+Gemlik Vergi Dairesi Müdürlüðü
+223
+16 BURSA
+Ýnegöl
+16202
+Ýnegöl Vergi Dairesi Müdürlüðü
+224
+16 BURSA
+Karacabey
+16203
+Karacabey Vergi Dairesi Müdürlüðü
+225
+16 BURSA
+Mustafakemalpaþa
+16204
+Mustafakemalpaþa Vergi Dairesi Müdürlüðü
+226
+16 BURSA
+Merkez- (5216)
+16205
+Mudanya Vergi Dairesi Müdürlüðü
+227
+16 BURSA
+Orhangazi
+16206
+Orhangazi Vergi Dairesi Müdürlüðü
+228
+16 BURSA
+Ýznik
+16207
+Ýznik Vergi Dairesi Müdürlüðü
+229
+16 BURSA
+Yeniþehir
+16208
+Yeniþehir Vergi Dairesi Müdürlüðü
+230
+16 BURSA
+Keles
+16105
+Keles Malmüdürlüðü
+231
+16 BURSA
+Orhaneli
+16108
+Orhaneli Malmüdürlüðü
+232
+16 BURSA
+Harmancýk
+16111
+Harmancýk Malmüdürlüðü
+233
+16 BURSA
+Büyükorhan
+16112
+Büyükorhan Malmüdürlüðü
+234
+17 ÇANAKKALE
+Merkez
+17260
+Çanakkale Vergi Dairesi Müdürlüðü
+235
+17 ÇANAKKALE
+Biga
+17261
+Biga Vergi Dairesi Müdürlüðü
+236
+17 ÇANAKKALE
+Çan
+17262
+Çan Vergi Dairesi Müdürlüðü
+237
+17 ÇANAKKALE
+Gelibolu
+17263
+Gelibolu Vergi Dairesi Müdürlüðü
+238
+17 ÇANAKKALE
+Ayvacýk
+17101
+Ayvacýk Malmüdürlüðü
+239
+17 ÇANAKKALE
+Bayramiç
+17102
+Bayramiç Malmüdürlüðü
+240
+17 ÇANAKKALE
+Bozcaada
+17104
+Bozcaada Malmüdürlüðü
+241
+17 ÇANAKKALE
+Eceabat
+17106
+Eceabat Malmüdürlüðü
+242
+17 ÇANAKKALE
+Ezine
+17107
+Ezine Malmüdürlüðü
+243
+17 ÇANAKKALE
+Gökçeada
+17109
+Gökçeada Malmüdürlüðü
+244
+17 ÇANAKKALE
+Lapseki
+17110
+Lapseki Malmüdürlüðü
+245
+17 ÇANAKKALE
+Yenice
+17111
+Yenice Malmüdürlüðü
+246
+18 ÇANKIRI
+Merkez
+18260
+Çankýrý Vergi Dairesi Müdürlüðü
+247
+18 ÇANKIRI
+Çerkeþ
+18101
+Çerkeþ Malmüdürlüðü
+248
+18 ÇANKIRI
+Eldivan
+18102
+Eldivan Malmüdürlüðü
+249
+18 ÇANKIRI
+Ilgaz
+18104
+Ilgaz Malmüdürlüðü
+4 15.11.2017
+SIRA NO.
+ÝL
+ÝLÇE
+SAY. KODU
+VERGÝ DAÝRESÝ
+250
+18 ÇANKIRI
+Kurþunlu
+18105
+Kurþunlu Malmüdürlüðü
+251
+18 ÇANKIRI
+Orta
+18106
+Orta Malmüdürlüðü
+252
+18 ÇANKIRI
+Þabanözü
+18108
+Þabanözü Malmüdürlüðü
+253
+18 ÇANKIRI
+Yapraklý
+18109
+Yapraklý Malmüdürlüðü
+254
+18 ÇANKIRI
+Atkaracalar
+18110
+Atkaracalar Malmüdürlüðü
+255
+18 ÇANKIRI
+Kýzýlýrmak
+18111
+Kýzýlýrmak Malmüdürlüðü
+256
+18 ÇANKIRI
+Bayramören
+18112
+Bayramören Malmüdürlüðü
+257
+18 ÇANKIRI
+Korgun
+18113
+Korgun Malmüdürlüðü
+258
+19 ÇORUM
+Merkez
+19260
+Çorum Vergi Dairesi Müdürlüðü
+259
+19 ÇORUM
+Sungurlu
+19261
+Sungurlu Vergi Dairesi Müdürlüðü
+260
+19 ÇORUM
+Alaca
+19101
+Alaca Malmüdürlüðü
+261
+19 ÇORUM
+Bayat
+19102
+Bayat Malmüdürlüðü
+262
+19 ÇORUM
+Ýskilip
+19103
+Ýskilip Malmüdürlüðü
+263
+19 ÇORUM
+Kargý
+19104
+Kargý Malmüdürlüðü
+264
+19 ÇORUM
+Mecitözü
+19105
+Mecitözü Malmüdürlüðü
+265
+19 ÇORUM
+Ortaköy
+19106
+Ortaköy Malmüdürlüðü
+266
+19 ÇORUM
+Osmancýk
+19107
+Osmancýk Malmüdürlüðü
+267
+19 ÇORUM
+Boðazkale
+19109
+Boðazkale Malmüdürlüðü
+268
+19 ÇORUM
+Uðurludað
+19110
+Uðurludað Malmüdürlüðü
+269
+19 ÇORUM
+Dodurga
+19111
+Dodurga Malmüdürlüðü
+270
+19 ÇORUM
+Oðuzlar
+19112
+Oðuzlar Malmüdürlüðü
+271
+19 ÇORUM
+Laçin
+19113
+Laçin Malmüdürlüðü
+272
+20 DENÝZLÝ
+Merkez
+20202
+Çýnar Vergi Dairesi Müdürlüðü
+273
+20 DENÝZLÝ
+Merkez
+20203
+Gökpýnar Vergi Dairesi Müdürlüðü
+274
+20 DENÝZLÝ
+Merkez
+20201
+Saraylar Vergi Dairesi Müdürlüðü
+275
+20 DENÝZLÝ
+Merkez
+20250
+Denizli Ýhtisas Vergi Dairesi Müdürlüðü
+276
+20 DENÝZLÝ
+Merkez
+20280
+Pamukkale Vergi Dairesi Müdürlüðü
+277
+20 DENÝZLÝ
+Sarayköy
+20260
+Sarayköy Vergi Dairesi Müdürlüðü
+278
+20 DENÝZLÝ
+Acýpayam
+20261
+Acýpayam Vergi Dairesi Müdürlüðü
+279
+20 DENÝZLÝ
+Tavas
+20262
+Tavas Vergi Dairesi Müdürlüðü
+280
+20 DENÝZLÝ
+Buldan
+20263
+Buldan Vergi Dairesi Müdürlüðü
+281
+20 DENÝZLÝ
+Çal
+20264
+Çal Vergi Dairesi Müdürlüðü
+282
+20 DENÝZLÝ
+Çivril
+20265
+Çivril Vergi Dairesi Müdürlüðü
+283
+20 DENÝZLÝ
+Çameli
+20104
+Çameli Malmüdürlüðü
+284
+20 DENÝZLÝ
+Çardak
+20105
+Çardak Malmüdürlüðü
+285
+20 DENÝZLÝ
+Güney
+20107
+Güney Malmüdürlüðü
+286
+20 DENÝZLÝ
+Kale
+20108
+Kale Malmüdürlüðü
+287
+20 DENÝZLÝ
+Babadað
+20111
+Babadað Malmüdürlüðü
+288
+20 DENÝZLÝ
+Bekilli
+20112
+Bekilli Malmüdürlüðü
+289
+20 DENÝZLÝ
+Honaz
+20113
+Honaz Malmüdürlüðü
+290
+20 DENÝZLÝ
+Serinhisar
+20114
+Serinhisar Malmüdürlüðü
+291
+20 DENÝZLÝ
+Akköy
+20115
+Akköy Malmüdürlüðü
+292
+20 DENÝZLÝ
+Baklan
+20116
+Baklan Malmüdürlüðü
+293
+20 DENÝZLÝ
+Beyaðaç
+20117
+Beyaðaç Malmüdürlüðü
+294
+20 DENÝZLÝ
+Bozkurt
+20118
+Bozkurt Malmüdürlüðü
+295
+21 DÝYARBAKIR
+Merkez
+21251
+Gökalp Vergi Dairesi Müdürlüðü
+296
+21 DÝYARBAKIR
+Merkez
+21281
+Süleyman Nazif Vergi Dairesi Müdürlüðü
+297
+21 DÝYARBAKIR
+Merkez
+21282
+Cahit Sýtký Tarancý Vergi Dairesi Müdürlüðü
+298
+21 DÝYARBAKIR
+Bismil
+21101
+Bismil Malmüdürlüðü
+299
+21 DÝYARBAKIR
+Çermik
+21102
+Çermik Malmüdürlüðü
+300
+21 DÝYARBAKIR
+Çýnar
+21103
+Çýnar Malmüdürlüðü
+301
+21 DÝYARBAKIR
+Çüngüþ
+21104
+Çüngüþ Malmüdürlüðü
+302
+21 DÝYARBAKIR
+Dicle
+21105
+Dicle Malmüdürlüðü
+303
+21 DÝYARBAKIR
+Ergani
+21106
+Ergani Malmüdürlüðü
+304
+21 DÝYARBAKIR
+Hani
+21107
+Hani Malmüdürlüðü
+305
+21 DÝYARBAKIR
+Hazro
+21108
+Hazro Malmüdürlüðü
+306
+21 DÝYARBAKIR
+Kulp
+21109
+Kulp Malmüdürlüðü
+307
+21 DÝYARBAKIR
+Lice
+21110
+Lice Malmüdürlüðü
+308
+21 DÝYARBAKIR
+Silvan
+21111
+Silvan Malmüdürlüðü
+309
+21 DÝYARBAKIR
+Eðil
+21112
+Eðil Malmüdürlüðü
+310
+21 DÝYARBAKIR
+Kocaköy
+21113
+Kocaköy Malmüdürlüðü
+311
+22 EDÝRNE
+Merkez
+22201
+Arda Vergi Dairesi Müdürlüðü
+312
+22 EDÝRNE
+Merkez
+22260
+Kýrkpýnar Vergi Dairesi Müdürlüðü
+5 15.11.2017
+SIRA NO.
+ÝL
+ÝLÇE
+SAY. KODU
+VERGÝ DAÝRESÝ
+313
+22 EDÝRNE
+Keþan
+22261
+Keþan Vergi Dairesi Müdürlüðü
+314
+22 EDÝRNE
+Uzunköprü
+22262
+Uzunköprü Vergi Dairesi Müdürlüðü
+315
+22 EDÝRNE
+Havsa
+22263
+Havsa Vergi Dairesi Müdürlüðü
+316
+22 EDÝRNE
+Ýpsala
+22264
+Ýpsala Vergi Dairesi Müdürlüðü
+317
+22 EDÝRNE
+Enez
+22101
+Enez Malmüdürlüðü
+318
+22 EDÝRNE
+Lalapaþa
+22105
+Lalapaþa Malmüdürlüðü
+319
+22 EDÝRNE
+Meriç
+22106
+Meriç Malmüdürlüðü
+320
+22 EDÝRNE
+Süloðlu
+22108
+Süloðlu Malmüdürlüðü
+321
+23 ELAZIÐ
+Merkez
+23201
+Harput Vergi Dairesi Müdürlüðü
+322
+23 ELAZIÐ
+Merkez
+23280
+Hazar Vergi Dairesi Müdürlüðü
+323
+23 ELAZIÐ
+Aðýn
+23101
+Aðýn Malmüdürlüðü
+324
+23 ELAZIÐ
+Baskil
+23102
+Baskil Malmüdürlüðü
+325
+23 ELAZIÐ
+Karakoçan
+23103
+Karakoçan Malmüdürlüðü
+326
+23 ELAZIÐ
+Keban
+23104
+Keban Malmüdürlüðü
+327
+23 ELAZIÐ
+Maden
+23105
+Maden Malmüdürlüðü
+328
+23 ELAZIÐ
+Palu
+23106
+Palu Malmüdürlüðü
+329
+23 ELAZIÐ
+Sivrice
+23107
+Sivrice Malmüdürlüðü
+330
+23 ELAZIÐ
+Arýcak
+23108
+Arýcak Malmüdürlüðü
+331
+23 ELAZIÐ
+Kovancýlar
+23109
+Kovancýlar Malmüdürlüðü
+332
+23 ELAZIÐ
+Alacakaya
+23110
+Alacakaya Malmüdürlüðü
+333
+24 ERZÝNCAN
+Merkez
+24260
+Fevzipaþa Vergi Dairesi Müdürlüðü
+334
+24 ERZÝNCAN
+Çayýrlý
+24101
+Çayýrlý Malmüdürlüðü
+335
+24 ERZÝNCAN
+Ýliç
+24102
+Ýliç Malmüdürlüðü
+336
+24 ERZÝNCAN
+Kemah
+24103
+Kemah Malmüdürlüðü
+337
+24 ERZÝNCAN
+Kemaliye
+24104
+Kemaliye Malmüdürlüðü
+338
+24 ERZÝNCAN
+Refahiye
+24105
+Refahiye Malmüdürlüðü
+339
+24 ERZÝNCAN
+Tercan
+24106
+Tercan Malmüdürlüðü
+340
+24 ERZÝNCAN
+Üzümlü
+24107
+Üzümlü Malmüdürlüðü
+341
+24 ERZÝNCAN
+Otlukbeli
+24108
+Otlukbeli Malmüdürlüðü
+342
+25 ERZURUM
+Merkez
+25251
+Aziziye Vergi Dairesi Müdürlüðü
+343
+25 ERZURUM
+Merkez
+25280
+Kazýmkarabekir Vergi Dairesi Müdürlüðü
+344
+25 ERZURUM
+Aþkale
+25101
+Aþkale Malmüdürlüðü
+345
+25 ERZURUM
+Çat
+25102
+Çat Malmüdürlüðü
+346
+25 ERZURUM
+Hýnýs
+25103
+Hýnýs Malmüdürlüðü
+347
+25 ERZURUM
+Horasan
+25104
+Horasan Malmüdürlüðü
+348
+25 ERZURUM
+Ýspir
+25105
+Ýspir Malmüdürlüðü
+349
+25 ERZURUM
+Karayazý
+25106
+Karayazý Malmüdürlüðü
+350
+25 ERZURUM
+Narman
+25107
+Narman Malmüdürlüðü
+351
+25 ERZURUM
+Oltu
+25108
+Oltu Malmüdürlüðü
+352
+25 ERZURUM
+Olur
+25109
+Olur Malmüdürlüðü
+353
+25 ERZURUM
+Pasinler
+25110
+Pasinler Malmüdürlüðü
+354
+25 ERZURUM
+Þenkaya
+25111
+Þenkaya Malmüdürlüðü
+355
+25 ERZURUM
+Tekman
+25112
+Tekman Malmüdürlüðü
+356
+25 ERZURUM
+Tortum
+25113
+Tortum Malmüdürlüðü
+357
+25 ERZURUM
+Karaçoban
+25114
+Karaçoban Malmüdürlüðü
+358
+25 ERZURUM
+Uzundere
+25115
+Uzundere Malmüdürlüðü
+359
+25 ERZURUM
+Pazaryolu
+25116
+Pazaryolu Malmüdürlüðü
+360
+25 ERZURUM
+Merkez- (5216)
+25117
+Aziziye (Ilýca) Malmüdürlüðü
+361
+25 ERZURUM
+Köprüköy
+25118
+Köprüköy Malmüdürlüðü
+362
+26 ESKÝÞEHÝR
+Merkez Baþkanlýk
+26250
+Eskiþehir Vergi Dairesi Baþkanlýðý (*)
+363
+26 ESKÝÞEHÝR
+Mahmudiye
+26102
+Mahmudiye Malmüdürlüðü
+364
+26 ESKÝÞEHÝR
+Mihalýççýk
+26103
+Mihalýççýk Malmüdürlüðü
+365
+26 ESKÝÞEHÝR
+Sarýcakaya
+26104
+Sarýcakaya Malmüdürlüðü
+366
+26 ESKÝÞEHÝR
+Seyitgazi
+26105
+Seyitgazi Malmüdürlüðü
+367
+26 ESKÝÞEHÝR
+Alpu
+26107
+Alpu Malmüdürlüðü
+368
+26 ESKÝÞEHÝR
+Beylikova
+26108
+Beylikova Malmüdürlüðü
+369
+26 ESKÝÞEHÝR
+Ýnönü
+26109
+Ýnönü Malmüdürlüðü
+370
+26 ESKÝÞEHÝR
+Günyüzü
+26110
+Günyüzü Malmüdürlüðü
+371
+26 ESKÝÞEHÝR
+Han
+26111
+Han Malmüdürlüðü
+372
+26 ESKÝÞEHÝR
+Mihalgazi
+26112
+Mihalgazi Malmüdürlüðü
+373
+27 GAZÝANTEP
+Merkez
+27250
+Gaziantep Ýhtisas Vergi Dairesi Müdürlüðü
+374
+27 GAZÝANTEP
+Merkez
+27251
+Suburcu Vergi Dairesi Müdürlüðü
+375
+27 GAZÝANTEP
+Merkez
+27252
+Þehitkâmil Vergi Dairesi Müdürlüðü
+6 15.11.2017
+SIRA NO.
+ÝL
+ÝLÇE
+SAY. KODU
+VERGÝ DAÝRESÝ
+376
+27 GAZÝANTEP
+Merkez
+27253
+Þahinbey Vergi Dairesi Müdürlüðü
+377
+27 GAZÝANTEP
+Merkez
+27254
+Gazikent Vergi Dairesi Müdürlüðü
+378
+27 GAZÝANTEP
+Merkez
+27255
+Kozanlý Vergi Dairesi Müdürlüðü
+379
+27 GAZÝANTEP
+Nizip
+27202
+Nizip Vergi Dairesi Müdürlüðü
+380
+27 GAZÝANTEP
+Ýslahiye
+27203
+Ýslahiye Vergi Dairesi Müdürlüðü
+381
+27 GAZÝANTEP
+Araban
+27101
+Araban Malmüdürlüðü
+382
+27 GAZÝANTEP
+Merkez- (5216)
+27105
+Oðuzeli Malmüdürlüðü
+383
+27 GAZÝANTEP
+Yavuzeli
+27106
+Yavuzeli Malmüdürlüðü
+384
+27 GAZÝANTEP
+Karkamýþ
+27107
+Karkamýþ Malmüdürlüðü
+385
+27 GAZÝANTEP
+Nurdaðý
+27108
+Nurdaðý Malmüdürlüðü
+386
+28 GÝRESUN
+Merkez
+28260
+Giresun Vergi Dairesi Müdürlüðü
+387
+28 GÝRESUN
+Bulancak
+28261
+Bulancak Vergi Dairesi Müdürlüðü
+388
+28 GÝRESUN
+Alucra
+28101
+Alucra Malmüdürlüðü
+389
+28 GÝRESUN
+Dereli
+28103
+Dereli Malmüdürlüðü
+390
+28 GÝRESUN
+Espiye
+28104
+Espiye Malmüdürlüðü
+391
+28 GÝRESUN
+Eynesil
+28105
+Eynesil Malmüdürlüðü
+392
+28 GÝRESUN
+Görele
+28106
+Görele Malmüdürlüðü
+393
+28 GÝRESUN
+Keþap
+28107
+Keþap Malmüdürlüðü
+394
+28 GÝRESUN
+Þebinkarahisar
+28108
+Þebinkarahisar Malmüdürlüðü
+395
+28 GÝRESUN
+Tirebolu
+28109
+Tirebolu Malmüdürlüðü
+396
+28 GÝRESUN
+Piraziz
+28110
+Piraziz Malmüdürlüðü
+397
+28 GÝRESUN
+Yaðlýdere
+28111
+Yaðlýdere Malmüdürlüðü
+398
+28 GÝRESUN
+Çanakçý
+28112
+Çanakçý Malmüdürlüðü
+399
+28 GÝRESUN
+Güce
+28113
+Güce Malmüdürlüðü
+400
+28 GÝRESUN
+Çamoluk
+28114
+Çamoluk Malmüdürlüðü
+401
+28 GÝRESUN
+Doðankent
+28115
+Doðankent Malmüdürlüðü
+402
+29 GÜMÜÞHANE
+Merkez
+29260
+Gümüþhane Vergi Dairesi Müdürlüðü
+403
+29 GÜMÜÞHANE
+Kelkit
+29102
+Kelkit Malmüdürlüðü
+404
+29 GÜMÜÞHANE
+Þiran
+29103
+Þiran Malmüdürlüðü
+405
+29 GÜMÜÞHANE
+Torul
+29104
+Torul Malmüdürlüðü
+406
+29 GÜMÜÞHANE
+Köse
+29107
+Köse Malmüdürlüðü
+407
+29 GÜMÜÞHANE
+Kürtün
+29108
+Kürtün Malmüdürlüðü
+408
+30 HAKKARÝ
+Merkez
+30260
+Hakkari Vergi Dairesi Müdürlüðü
+409
+30 HAKKARÝ
+Yüksekova
+30261
+Yüksekova Vergi Dairesi Müdürlüðü
+410
+30 HAKKARÝ
+Çukurca
+30102
+Çukurca Malmüdürlüðü
+411
+30 HAKKARÝ
+Þemdinli
+30103
+Þemdinli Malmüdürlüðü
+412
+31 HATAY
+Merkez
+31201
+23 Temmuz Vergi Dairesi Müdürlüðü
+413
+31 HATAY
+Merkez
+31203
+Antakya Vergi Dairesi Müdürlüðü
+414
+31 HATAY
+Merkez
+31280
+Þükrükanatlý Vergi Dairesi Müdürlüðü
+415
+31 HATAY
+Ýskenderun
+31202
+Sahil Vergi Dairesi Müdürlüðü
+416
+31 HATAY
+Ýskenderun
+31281
+Akdeniz Vergi Dairesi Müdürlüðü
+417
+31 HATAY
+Ýskenderun
+31290
+Asým Gündüz Vergi Dairesi Müdürlüðü
+418
+31 HATAY
+Dörtyol
+31260
+Dörtyol Vergi Dairesi Müdürlüðü
+419
+31 HATAY
+Kýrýkhan
+31261
+Kýrýkhan Vergi Dairesi Müdürlüðü
+420
+31 HATAY
+Reyhanlý
+31262
+Reyhanlý Vergi Dairesi Müdürlüðü
+421
+31 HATAY
+Samandað
+31263
+Samandað Vergi Dairesi Müdürlüðü
+422
+31 HATAY
+Altýnözü
+31101
+Altýnözü Malmüdürlüðü
+423
+31 HATAY
+Hassa
+31103
+Hassa Malmüdürlüðü
+424
+31 HATAY
+Yayladaðý
+31108
+Yayladaðý Malmüdürlüðü
+425
+31 HATAY
+Erzin
+31109
+Erzin Malmüdürlüðü
+426
+31 HATAY
+Belen
+31110
+Belen Malmüdürlüðü
+427
+31 HATAY
+Kumlu
+31111
+Kumlu Malmüdürlüðü
+428
+32 ISPARTA
+Merkez
+32201
+Davraz Vergi Dairesi Müdürlüðü
+429
+32 ISPARTA
+Merkez
+32260
+Kaymakkapý Vergi Dairesi Müdürlüðü
+430
+32 ISPARTA
+Eðirdir
+32261
+Eðirdir Vergi Dairesi Müdürlüðü
+431
+32 ISPARTA
+Yalvaç
+32262
+Yalvaç Vergi Dairesi Müdürlüðü
+432
+32 ISPARTA
+Atabey
+32101
+Atabey Malmüdürlüðü
+433
+32 ISPARTA
+Gelendost
+32103
+Gelendost Malmüdürlüðü
+434
+32 ISPARTA
+Keçiborlu
+32104
+Keçiborlu Malmüdürlüðü
+435
+32 ISPARTA
+Senirkent
+32105
+Senirkent Malmüdürlüðü
+436
+32 ISPARTA
+Sütçüler
+32106
+Sütçüler Malmüdürlüðü
+437
+32 ISPARTA
+Þarkikaraaðaç
+32107
+Þarkikaraaðaç Malmüdürlüðü
+438
+32 ISPARTA
+Uluborlu
+32108
+Uluborlu Malmüdürlüðü
+7 15.11.2017
+SIRA NO.
+ÝL
+ÝLÇE
+SAY. KODU
+VERGÝ DAÝRESÝ
+439
+32 ISPARTA
+Aksu
+32110
+Aksu Malmüdürlüðü
+440
+32 ISPARTA
+Gönen
+32111
+Gönen Malmüdürlüðü
+441
+32 ISPARTA
+Yeniþarbademli
+32112
+Yeniþarbademli Malmüdürlüðü
+442
+33 MERSÝN
+Merkez
+33250
+Ýstiklâl Vergi Dairesi Müdürlüðü
+443
+33 MERSÝN
+Merkez
+33252
+Uray Vergi Dairesi Müdürlüðü
+444
+33 MERSÝN
+Merkez
+33254
+Liman Vergi Dairesi Müdürlüðü
+445
+33 MERSÝN
+Merkez
+33255
+Toros Vergi Dairesi Müdürlüðü
+446
+33 MERSÝN
+Merkez
+33256
+Mersin Ýhtisas Vergi Dairesi Müdürlüðü
+447
+33 MERSÝN
+Erdemli
+33201
+Erdemli Vergi Dairesi Müdürlüðü
+448
+33 MERSÝN
+Silifke
+33202
+Silifke Vergi Dairesi Müdürlüðü
+449
+33 MERSÝN
+Anamur
+33203
+Anamur Vergi Dairesi Müdürlüðü
+450
+33 MERSÝN
+Tarsus
+33204
+Kýzýlmurat Vergi Dairesi Müdürlüðü
+451
+33 MERSÝN
+Tarsus
+33205
+Þehitkerim Vergi Dairesi Müdürlüðü
+452
+33 MERSÝN
+Gülnar
+33103
+Gülnar Malmüdürlüðü
+453
+33 MERSÝN
+Mut
+33104
+Mut Malmüdürlüðü
+454
+33 MERSÝN
+Aydýncýk
+33107
+Aydýncýk Malmüdürlüðü
+455
+33 MERSÝN
+Bozyazý
+33108
+Bozyazý Malmüdürlüðü
+456
+33 MERSÝN
+Çamlýyayla
+33109
+Çamlýyayla Malmüdürlüðü
+457
+34 ÝSTANBUL
+Merkez Baþkanlýk
+34230
+Büyük Mükellefler Vergi Dairesi Baþkanlýðý (*)
+458
+34 ÝSTANBUL
+Merkez
+34231
+Boðaziçi Kurumlar Vergi Dairesi Müdürlüðü
+459
+34 ÝSTANBUL
+Merkez
+34244
+Anadolu Kurumlar Vergi Dairesi Müdürlüðü
+460
+34 ÝSTANBUL
+Merkez
+34232
+Marmara Kurumlar Vergi Dairesi Müdürlüðü
+461
+34 ÝSTANBUL
+Merkez
+34220
+Haliç Ýhtisas Vergi Dairesi Müdürlüðü
+462
+34 ÝSTANBUL
+Merkez
+34221
+Vatan Ýhtisas Vergi Dairesi Müdürlüðü
+463
+34 ÝSTANBUL
+Merkez
+34222
+Çamlýca Ýhtisas Vergi Dairesi Müdürlüðü
+464
+34 ÝSTANBUL
+Merkez
+34223
+Alemdað Vergi Dairesi Müdürlüðü
+465
+34 ÝSTANBUL
+Merkez
+34266
+Beyoðlu Vergi Dairesi Müdürlüðü
+466
+34 ÝSTANBUL
+Merkez
+34278
+Halkalý Vergi Dairesi Müdürlüðü
+467
+34 ÝSTANBUL
+Merkez
+34234
+Davutpaþa Vergi Dairesi Müdürlüðü
+468
+34 ÝSTANBUL
+Merkez
+34235
+Esenler Vergi Dairesi Müdürlüðü
+469
+34 ÝSTANBUL
+Merkez
+34236
+Fatih Vergi Dairesi Müdürlüðü
+470
+34 ÝSTANBUL
+Merkez
+34237
+Küçükköy Vergi Dairesi Müdürlüðü
+471
+34 ÝSTANBUL
+Merkez
+34239
+Merter Vergi Dairesi Müdürlüðü
+472
+34 ÝSTANBUL
+Merkez
+34242
+Sultanbeyli Vergi Dairesi Müdürlüðü
+473
+34 ÝSTANBUL
+Merkez
+34245
+Tuzla Vergi Dairesi Müdürlüðü
+474
+34 ÝSTANBUL
+Merkez
+34246
+Kozyataðý Vergi Dairesi Müdürlüðü
+475
+34 ÝSTANBUL
+Merkez
+34247
+Maslak Vergi Dairesi Müdürlüðü
+476
+34 ÝSTANBUL
+Merkez
+34248
+Zincirlikuyu Vergi Dairesi Müdürlüðü
+477
+34 ÝSTANBUL
+Merkez
+34249
+Ýkitelli Vergi Dairesi Müdürlüðü
+478
+34 ÝSTANBUL
+Merkez
+34251
+Beþiktaþ Vergi Dairesi Müdürlüðü
+479
+34 ÝSTANBUL
+Merkez
+34252
+Ümraniye Vergi Dairesi Müdürlüðü
+480
+34 ÝSTANBUL
+Merkez
+34253
+Yeditepe Veraset ve Harçlar Vergi Dairesi Müdürlüðü
+481
+34 ÝSTANBUL
+Merkez
+34254
+Kasýmpaþa Vergi Dairesi Müdürlüðü
+482
+34 ÝSTANBUL
+Merkez
+34255
+Erenköy Vergi Dairesi Müdürlüðü
+483
+34 ÝSTANBUL
+Merkez
+34256
+Hisar Veraset ve Harçlar Vergi Dairesi Müdürlüðü
+484
+34 ÝSTANBUL
+Merkez
+34257
+Tuna Vergi Dairesi Müdürlüðü
+485
+34 ÝSTANBUL
+Merkez
+34258
+Rýhtým Veraset ve Harçlar Vergi Dairesi Müdürlüðü
+486
+34 ÝSTANBUL
+Merkez
+34259
+Güngören Vergi Dairesi Müdürlüðü
+487
+34 ÝSTANBUL
+Merkez
+34260
+Kocasinan Vergi Dairesi Müdürlüðü
+488
+34 ÝSTANBUL
+Merkez
+34261
+Güneþli Vergi Dairesi Müdürlüðü
+489
+34 ÝSTANBUL
+Merkez
+34262
+Küçükyalý Vergi Dairesi Müdürlüðü
+490
+34 ÝSTANBUL
+Merkez
+34263
+Pendik Vergi Dairesi Müdürlüðü
+491
+34 ÝSTANBUL
+Merkez
+34264
+Bayrampaþa Vergi Dairesi Müdürlüðü
+492
+34 ÝSTANBUL
+Merkez
+34265
+Beyazýt Vergi Dairesi Müdürlüðü
+493
+34 ÝSTANBUL
+Merkez
+34269
+Gaziosmanpaþa Vergi Dairesi Müdürlüðü
+494
+34 ÝSTANBUL
+Merkez
+34270
+Göztepe Vergi Dairesi Müdürlüðü
+495
+34 ÝSTANBUL
+Merkez
+34271
+Hocapaþa Vergi Dairesi Müdürlüðü
+496
+34 ÝSTANBUL
+Merkez
+34272
+Kadýköy Vergi Dairesi Müdürlüðü
+497
+34 ÝSTANBUL
+Merkez
+34273
+Kocamustafapaþa Vergi Dairesi Müdürlüðü
+498
+34 ÝSTANBUL
+Merkez
+34274
+Mecidiyeköy Vergi Dairesi Müdürlüðü
+499
+34 ÝSTANBUL
+Merkez
+34276
+Þiþli Vergi Dairesi Müdürlüðü
+500
+34 ÝSTANBUL
+Merkez
+34277
+Üsküdar Vergi Dairesi Müdürlüðü
+501
+34 ÝSTANBUL
+Merkez
+34279
+Kaðýthane Vergi Dairesi Müdürlüðü
+8 15.11.2017
+SIRA NO.
+ÝL
+ÝLÇE
+SAY. KODU
+VERGÝ DAÝRESÝ
+502
+34 ÝSTANBUL
+Merkez
+34280
+Zeytinburnu Vergi Dairesi Müdürlüðü
+503
+34 ÝSTANBUL
+Merkez
+34281
+Beykoz Vergi Dairesi Müdürlüðü
+504
+34 ÝSTANBUL
+Merkez
+34283
+Sarýyer Vergi Dairesi Müdürlüðü
+505
+34 ÝSTANBUL
+Merkez
+34284
+Bakýrköy Vergi Dairesi Müdürlüðü
+506
+34 ÝSTANBUL
+Merkez
+34285
+Kartal Vergi Dairesi Müdürlüðü
+507
+34 ÝSTANBUL
+Merkez
+34287
+Nakil Vasýtalarý Vergi Dairesi Müdürlüðü
+508
+34 ÝSTANBUL
+Merkez
+34288
+Sarýgazi Vergi Dairesi Müdürlüðü
+509
+34 ÝSTANBUL
+Merkez
+34291
+Atýþalaný Vergi Dairesi Müdürlüðü
+510
+34 ÝSTANBUL
+Merkez
+34292
+Yakacýk Vergi Dairesi Müdürlüðü
+511
+34 ÝSTANBUL
+Merkez
+34293
+Yenibosna Vergi Dairesi Müdürlüðü
+512
+34 ÝSTANBUL
+Merkez
+34294
+Avcýlar Vergi Dairesi Müdürlüðü
+513
+34 ÝSTANBUL
+Merkez
+34296
+Küçükçekmece Vergi Dairesi Müdürlüðü
+514
+34 ÝSTANBUL
+Merkez
+34297
+Beylikdüzü Vergi Dairesi Müdürlüðü
+515
+34 ÝSTANBUL
+Merkez- (5216)
+34295
+Adalar Vergi Dairesi Müdürlüðü
+516
+34 ÝSTANBUL
+Merkez- (5216)
+34203
+Silivri Vergi Dairesi Müdürlüðü
+517
+34 ÝSTANBUL
+Merkez- (5216)
+34204
+Büyükçekmece Vergi Dairesi Müdürlüðü
+518
+34 ÝSTANBUL
+Merkez- (5216)
+34205
+Þile Vergi Dairesi Müdürlüðü
+519
+35 ÝZMÝR
+Merkez
+35264
+Bornova Vergi Dairesi Müdürlüðü
+520
+35 ÝZMÝR
+Merkez
+35265
+Çakabey Vergi Dairesi Müdürlüðü
+521
+35 ÝZMÝR
+Merkez
+35259
+Kordon Vergi Dairesi Müdürlüðü
+522
+35 ÝZMÝR
+Merkez
+35263
+Hasan Tahsin Vergi Dairesi Müdürlüðü
+523
+35 ÝZMÝR
+Merkez
+35250
+Ýzmir Ýhtisas Vergi Dairesi Müdürlüðü
+524
+35 ÝZMÝR
+Merkez
+35251
+9 Eylül Vergi Dairesi Müdürlüðü
+525
+35 ÝZMÝR
+Merkez
+35252
+Yamanlar Vergi Dairesi Müdürlüðü
+526
+35 ÝZMÝR
+Merkez
+35256
+Karþýyaka Vergi Dairesi Müdürlüðü
+527
+35 ÝZMÝR
+Merkez
+35257
+Kemeraltý Vergi Dairesi Müdürlüðü
+528
+35 ÝZMÝR
+Merkez
+35258
+Konak Vergi Dairesi Müdürlüðü
+529
+35 ÝZMÝR
+Merkez
+35260
+Þirinyer Vergi Dairesi Müdürlüðü
+530
+35 ÝZMÝR
+Merkez
+35261
+Kadifekale Vergi Dairesi Müdürlüðü
+531
+35 ÝZMÝR
+Merkez
+35262
+Taþýtlar Vergi Dairesi Müdürlüðü
+532
+35 ÝZMÝR
+Merkez
+35254
+Belkahve Vergi Dairesi Müdürlüðü
+533
+35 ÝZMÝR
+Merkez
+35266
+Balçova Vergi Dairesi Müdürlüðü
+534
+35 ÝZMÝR
+Merkez
+35267
+Gaziemir Vergi Dairesi Müdürlüðü
+535
+35 ÝZMÝR
+Merkez
+35268
+Ege Vergi Dairesi Müdürlüðü
+536
+35 ÝZMÝR
+Merkez
+35269
+Çiðli Vergi Dairesi Müdürlüðü
+537
+35 ÝZMÝR
+Bayýndýr
+35201
+Bayýndýr Vergi Dairesi Müdürlüðü
+538
+35 ÝZMÝR
+Bergama
+35202
+Bergama Vergi Dairesi Müdürlüðü
+539
+35 ÝZMÝR
+Merkez- (5216)
+35203
+Menemen Vergi Dairesi Müdürlüðü
+540
+35 ÝZMÝR
+Ödemiþ
+35204
+Ödemiþ Vergi Dairesi Müdürlüðü
+541
+35 ÝZMÝR
+Tire
+35205
+Tire Vergi Dairesi Müdürlüðü
+542
+35 ÝZMÝR
+Merkez- (5216)
+35206
+Torbalý Vergi Dairesi Müdürlüðü
+543
+35 ÝZMÝR
+Merkez- (5216)
+35207
+Kemalpaþa Vergi Dairesi Müdürlüðü
+544
+35 ÝZMÝR
+Merkez- (5216)
+35208
+Urla Vergi Dairesi Müdürlüðü
+545
+35 ÝZMÝR
+Selçuk
+35209
+Selçuk Vergi Dairesi Müdürlüðü
+546
+35 ÝZMÝR
+Kýnýk
+35210
+Kýnýk Vergi Dairesi Müdürlüðü
+547
+35 ÝZMÝR
+Kiraz
+35211
+Kiraz Vergi Dairesi Müdürlüðü
+548
+35 ÝZMÝR
+Çeþme
+35212
+Çeþme Vergi Dairesi Müdürlüðü
+549
+35 ÝZMÝR
+Merkez- (5216)
+35213
+Aliaða Vergi Dairesi Müdürlüðü
+550
+35 ÝZMÝR
+Merkez- (5216)
+35215
+Menderes Vergi Dairesi Müdürlüðü
+551
+35 ÝZMÝR
+Dikili
+35105
+Dikili Malmüdürlüðü
+552
+35 ÝZMÝR
+Merkez- (5216)
+35106
+Foça Malmüdürlüðü
+553
+35 ÝZMÝR
+Karaburun
+35107
+Karaburun Malmüdürlüðü
+554
+35 ÝZMÝR
+Merkez- (5216)
+35114
+Seferihisar Malmüdürlüðü
+555
+35 ÝZMÝR
+Beydað
+35120
+Beydað Malmüdürlüðü
+556
+36 KARS
+Merkez
+36260
+Kars Vergi Dairesi Müdürlüðü
+557
+36 KARS
+Arpaçay
+36103
+Arpaçay Malmüdürlüðü
+558
+36 KARS
+Digor
+36105
+Digor Malmüdürlüðü
+559
+36 KARS
+Kaðýzman
+36109
+Kaðýzman Malmüdürlüðü
+560
+36 KARS
+Sarýkamýþ
+36111
+Sarýkamýþ Malmüdürlüðü
+561
+36 KARS
+Selim
+36112
+Selim Malmüdürlüðü
+562
+36 KARS
+Susuz
+36113
+Susuz Malmüdürlüðü
+563
+36 KARS
+Akyaka
+36115
+Akyaka Malmüdürlüðü
+564
+37 KASTAMONU
+Merkez
+37260
+Kastamonu Vergi Dairesi Müdürlüðü
+9 15.11.2017
+SIRA NO.
+ÝL
+ÝLÇE
+SAY. KODU
+VERGÝ DAÝRESÝ
+565
+37 KASTAMONU
+Tosya
+37261
+Tosya Vergi Dairesi Müdürlüðü
+566
+37 KASTAMONU
+Taþköprü
+37262
+Taþköprü Vergi Dairesi Müdürlüðü
+567
+37 KASTAMONU
+Araç
+37101
+Araç Malmüdürlüðü
+568
+37 KASTAMONU
+Azdavay
+37102
+Azdavay Malmüdürlüðü
+569
+37 KASTAMONU
+Bozkurt
+37103
+Bozkurt Malmüdürlüðü
+570
+37 KASTAMONU
+Cide
+37104
+Cide Malmüdürlüðü
+571
+37 KASTAMONU
+Çatalzeytin
+37105
+Çatalzeytin Malmüdürlüðü
+572
+37 KASTAMONU
+Daday
+37106
+Daday Malmüdürlüðü
+573
+37 KASTAMONU
+Devrekani
+37107
+Devrekani Malmüdürlüðü
+574
+37 KASTAMONU
+Ýnebolu
+37108
+Ýnebolu Malmüdürlüðü
+575
+37 KASTAMONU
+Küre
+37109
+Küre Malmüdürlüðü
+576
+37 KASTAMONU
+Abana
+37112
+Abana Malmüdürlüðü
+577
+37 KASTAMONU
+Ýhsangazi
+37113
+Ýhsangazi Malmüdürlüðü
+578
+37 KASTAMONU
+Pýnarbaþý
+37114
+Pýnarbaþý Malmüdürlüðü
+579
+37 KASTAMONU
+Þenpazar
+37115
+Þenpazar Malmüdürlüðü
+580
+37 KASTAMONU
+Aðlý
+37116
+Aðlý Malmüdürlüðü
+581
+37 KASTAMONU
+Doðanyurt
+37117
+Doðanyurt Malmüdürlüðü
+582
+37 KASTAMONU
+Hanönü
+37118
+Hanönü Malmüdürlüðü
+583
+37 KASTAMONU
+Seydiler
+37119
+Seydiler Malmüdürlüðü
+584
+38 KAYSERÝ
+Merkez
+38250
+Kayseri Ýhtisas Vergi Dairesi Müdürlüðü
+585
+38 KAYSERÝ
+Merkez
+38251
+Mimar Sinan Vergi Dairesi Müdürlüðü
+586
+38 KAYSERÝ
+Merkez
+38252
+Erciyes Vergi Dairesi Müdürlüðü
+587
+38 KAYSERÝ
+Merkez
+38253
+Kaleönü Vergi Dairesi Müdürlüðü
+588
+38 KAYSERÝ
+Merkez
+38254
+Gevher Nesibe Vergi Dairesi Müdürlüðü
+589
+38 KAYSERÝ
+Develi
+38201
+Develi Vergi Dairesi Müdürlüðü
+590
+38 KAYSERÝ
+Pýnarbaþý
+38202
+Pýnarbaþý Vergi Dairesi Müdürlüðü
+591
+38 KAYSERÝ
+Bünyan
+38203
+Bünyan Vergi Dairesi Müdürlüðü
+592
+38 KAYSERÝ
+Felahiye
+38103
+Felahiye Malmüdürlüðü
+593
+38 KAYSERÝ
+Ýncesu
+38104
+Ýncesu Malmüdürlüðü
+594
+38 KAYSERÝ
+Sarýoðlan
+38106
+Sarýoðlan Malmüdürlüðü
+595
+38 KAYSERÝ
+Sarýz
+38107
+Sarýz Malmüdürlüðü
+596
+38 KAYSERÝ
+Tomarza
+38108
+Tomarza Malmüdürlüðü
+597
+38 KAYSERÝ
+Yahyalý
+38109
+Yahyalý Malmüdürlüðü
+598
+38 KAYSERÝ
+Yeþilhisar
+38110
+Yeþilhisar Malmüdürlüðü
+599
+38 KAYSERÝ
+Akkýþla
+38111
+Akkýþla Malmüdürlüðü
+600
+38 KAYSERÝ
+Merkez- (5216)
+38113
+Hacýlar Malmüdürlüðü
+601
+38 KAYSERÝ
+Özvatan
+38114
+Özvatan Malmüdürlüðü
+602
+39 KIRKLARELÝ
+Merkez
+39260
+Kýrklareli Vergi Dairesi Müdürlüðü
+603
+39 KIRKLARELÝ
+Lüleburgaz
+39261
+Lüleburgaz Vergi Dairesi Müdürlüðü
+604
+39 KIRKLARELÝ
+Babaeski
+39262
+Babaeski Vergi Dairesi Müdürlüðü
+605
+39 KIRKLARELÝ
+Demirköy
+39102
+Demirköy Malmüdürlüðü
+606
+39 KIRKLARELÝ
+Kofçaz
+39103
+Kofçaz Malmüdürlüðü
+607
+39 KIRKLARELÝ
+Pehlivanköy
+39105
+Pehlivanköy Malmüdürlüðü
+608
+39 KIRKLARELÝ
+Pýnarhisar
+39106
+Pýnarhisar Malmüdürlüðü
+609
+39 KIRKLARELÝ
+Vize
+39107
+Vize Malmüdürlüðü
+610
+40 KIRÞEHÝR
+Merkez
+40260
+Kýrþehir Vergi Dairesi Müdürlüðü
+611
+40 KIRÞEHÝR
+Kaman
+40261
+Kaman Vergi Dairesi Müdürlüðü
+612
+40 KIRÞEHÝR
+Çiçekdaðý
+40101
+Çiçekdaðý Malmüdürlüðü
+613
+40 KIRÞEHÝR
+Mucur
+40103
+Mucur Malmüdürlüðü
+614
+40 KIRÞEHÝR
+Akpýnar
+40104
+Akpýnar Malmüdürlüðü
+615
+40 KIRÞEHÝR
+Akçakent
+40105
+Akçakent Malmüdürlüðü
+616
+40 KIRÞEHÝR
+Boztepe
+40106
+Boztepe Malmüdürlüðü
+617
+41 KOCAELÝ
+Merkez
+41250
+Kocaeli Ýhtisas Vergi Dairesi Müdürlüðü
+618
+41 KOCAELÝ
+Merkez
+41252
+Tepecik Vergi Dairesi Müdürlüðü
+619
+41 KOCAELÝ
+Merkez
+41253
+Alemdar Vergi Dairesi Müdürlüðü
+620
+41 KOCAELÝ
+Merkez Gebze
+41254
+Gebze Ýhtisas Vergi Dairesi Müdürlüðü
+621
+41 KOCAELÝ
+Merkez
+41290
+Acýsu Vergi Dairesi Müdürlüðü
+622
+41 KOCAELÝ
+Merkez- (5216)
+41202
+Uluçýnar Vergi Dairesi Müdürlüðü
+623
+41 KOCAELÝ
+Merkez- (5216)
+41203
+Ýlyasbey Vergi Dairesi Müdürlüðü
+624
+41 KOCAELÝ
+Merkez- (5216)
+41204
+Gölcük Vergi Dairesi Müdürlüðü
+625
+41 KOCAELÝ
+Merkez- (5216)
+41205
+Karamürsel Vergi Dairesi Müdürlüðü
+626
+41 KOCAELÝ
+Merkez- (5216)
+41206
+Körfez Vergi Dairesi Müdürlüðü
+627
+41 KOCAELÝ
+Merkez- (5216)
+41207
+Derince Vergi Dairesi Müdürlüðü
+10 15.11.2017
+SIRA NO.
+ÝL
+ÝLÇE
+SAY. KODU
+VERGÝ DAÝRESÝ
+628
+41 KOCAELÝ
+Merkez- (5216)
+41103
+Kandýra Malmüdürlüðü
+629
+42 KONYA
+Merkez
+42250
+Konya Ýhtisas Vergi Dairesi Müdürlüðü
+630
+42 KONYA
+Merkez
+42251
+Selçuk Vergi Dairesi Müdürlüðü
+631
+42 KONYA
+Merkez
+42252
+Mevlana Vergi Dairesi Müdürlüðü
+632
+42 KONYA
+Merkez
+42253
+Meram Vergi Dairesi Müdürlüðü
+633
+42 KONYA
+Merkez
+42254
+Alaaddin Vergi Dairesi Müdürlüðü
+634
+42 KONYA
+Akþehir
+42201
+Akþehir Vergi Dairesi Müdürlüðü
+635
+42 KONYA
+Ereðli
+42202
+Ereðli Vergi Dairesi Müdürlüðü
+636
+42 KONYA
+Beyþehir
+42204
+Beyþehir Vergi Dairesi Müdürlüðü
+637
+42 KONYA
+Cihanbeyli
+42205
+Cihanbeyli Vergi Dairesi Müdürlüðü
+638
+42 KONYA
+Çumra
+42206
+Çumra Vergi Dairesi Müdürlüðü
+639
+42 KONYA
+Seydiþehir
+42207
+Seydiþehir Vergi Dairesi Müdürlüðü
+640
+42 KONYA
+Ilgýn
+42208
+Ilgýn Vergi Dairesi Müdürlüðü
+641
+42 KONYA
+Kulu
+42209
+Kulu Vergi Dairesi Müdürlüðü
+646
+42 KONYA
+Karapýnar
+42210
+Karapýnar Vergi Dairesi Müdürlüðü
+642
+42 KONYA
+Bozkýr
+42103
+Bozkýr Malmüdürlüðü
+643
+42 KONYA
+Doðanhisar
+42106
+Doðanhisar Malmüdürlüðü
+644
+42 KONYA
+Hadim
+42109
+Hadim Malmüdürlüðü
+645
+42 KONYA
+Kadýnhaný
+42111
+Kadýnhaný Malmüdürlüðü
+647
+42 KONYA
+Sarayönü
+42115
+Sarayönü Malmüdürlüðü
+648
+42 KONYA
+Yunak
+42117
+Yunak Malmüdürlüðü
+649
+42 KONYA
+Akören
+42118
+Akören Malmüdürlüðü
+650
+42 KONYA
+Altýnekin
+42119
+Altýnekin Malmüdürlüðü
+651
+42 KONYA
+Derebucak
+42121
+Derebucak Malmüdürlüðü
+652
+42 KONYA
+Hüyük
+42122
+Hüyük Malmüdürlüðü
+653
+42 KONYA
+Taþkent
+42123
+Taþkent Malmüdürlüðü
+654
+42 KONYA
+Emirgazi
+42127
+Emirgazi Malmüdürlüðü
+655
+42 KONYA
+Güneysýnýr
+42128
+Güneysýnýr Malmüdürlüðü
+656
+42 KONYA
+Halkapýnar
+42129
+Halkapýnar Malmüdürlüðü
+657
+42 KONYA
+Tuzlukçu
+42130
+Tuzlukçu Malmüdürlüðü
+658
+42 KONYA
+Ahýrlý
+42124
+Ahýrlý Malmüdürlüðü
+659
+42 KONYA
+Çeltik
+42125
+Çeltik Malmüdürlüðü
+660
+42 KONYA
+Derbent
+42126
+Derbent Malmüdürlüðü
+661
+42 KONYA
+Yalýhüyük
+42131
+Yalýhüyük Malmüdürlüðü
+662
+43 KÜTAHYA
+Merkez
+43201
+30 Aðustos Vergi Dairesi Müdürlüðü
+663
+43 KÜTAHYA
+Merkez
+43280
+Çinili Vergi Dairesi Müdürlüðü
+664
+43 KÜTAHYA
+Gediz
+43260
+Gediz Vergi Dairesi Müdürlüðü
+665
+43 KÜTAHYA
+Simav
+43261
+Simav Vergi Dairesi Müdürlüðü
+666
+43 KÜTAHYA
+Tavþanlý
+43262
+Tavþanlý Vergi Dairesi Müdürlüðü
+667
+43 KÜTAHYA
+Emet
+43263
+Emet Vergi Dairesi Müdürlüðü
+668
+43 KÜTAHYA
+Altýntaþ
+43101
+Altýntaþ Malmüdürlüðü
+669
+43 KÜTAHYA
+Domaniç
+43102
+Domaniç Malmüdürlüðü
+670
+43 KÜTAHYA
+Aslanapa
+43107
+Aslanapa Malmüdürlüðü
+671
+43 KÜTAHYA
+Dumlupýnar
+43108
+Dumlupýnar Malmüdürlüðü
+672
+43 KÜTAHYA
+Hisarcýk
+43109
+Hisarcýk Malmüdürlüðü
+673
+43 KÜTAHYA
+Þaphane
+43110
+Þaphane Malmüdürlüðü
+674
+43 KÜTAHYA
+Çavdarhisar
+43111
+Çavdarhisar Malmüdürlüðü
+675
+43 KÜTAHYA
+Pazarlar
+43112
+Pazarlar Malmüdürlüðü
+676
+44 MALATYA
+Merkez
+44251
+Fýrat Vergi Dairesi Müdürlüðü
+677
+44 MALATYA
+Merkez
+44252
+Beydaðý Vergi Dairesi Müdürlüðü
+678
+44 MALATYA
+Akçadað
+44101
+Akçadað Malmüdürlüðü
+679
+44 MALATYA
+Arapgir
+44102
+Arapgir Malmüdürlüðü
+680
+44 MALATYA
+Arguvan
+44103
+Arguvan Malmüdürlüðü
+681
+44 MALATYA
+Darende
+44104
+Darende Malmüdürlüðü
+682
+44 MALATYA
+Doðanþehir
+44105
+Doðanþehir Malmüdürlüðü
+683
+44 MALATYA
+Hekimhan
+44106
+Hekimhan Malmüdürlüðü
+684
+44 MALATYA
+Pütürge
+44107
+Pütürge Malmüdürlüðü
+685
+44 MALATYA
+Yeþilyurt
+44108
+Yeþilyurt Malmüdürlüðü
+686
+44 MALATYA
+Battalgazi
+44109
+Battalgazi Malmüdürlüðü
+687
+44 MALATYA
+Doðanyol
+44110
+Doðanyol Malmüdürlüðü
+688
+44 MALATYA
+Kale
+44111
+Kale Malmüdürlüðü
+689
+44 MALATYA
+Kuluncak
+44112
+Kuluncak Malmüdürlüðü
+690
+44 MALATYA
+Yazýhan
+44113
+Yazýhan Malmüdürlüðü
+11 15.11.2017
+SIRA NO.
+ÝL
+ÝLÇE
+SAY. KODU
+VERGÝ DAÝRESÝ
+691
+45 MANÝSA
+Merkez
+45250
+Manisa Ýhtisas Vergi Dairesi Müdürlüðü
+692
+45 MANÝSA
+Merkez
+45251
+Alaybey Vergi Dairesi Müdürlüðü
+693
+45 MANÝSA
+Merkez
+45252
+Mesir Vergi Dairesi Müdürlüðü
+694
+45 MANÝSA
+Akhisar
+45201
+Akhisar Vergi Dairesi Müdürlüðü
+695
+45 MANÝSA
+Alaþehir
+45202
+Alaþehir Vergi Dairesi Müdürlüðü
+696
+45 MANÝSA
+Demirci
+45203
+Demirci Vergi Dairesi Müdürlüðü
+697
+45 MANÝSA
+Kýrkaðaç
+45204
+Kýrkaðaç Vergi Dairesi Müdürlüðü
+698
+45 MANÝSA
+Salihli
+45205
+Salihli Adil Oral Vergi Dairesi Müdürlüðü
+699
+45 MANÝSA
+Sarýgöl
+45206
+Sarýgöl Vergi Dairesi Müdürlüðü
+700
+45 MANÝSA
+Saruhanlý
+45207
+Saruhanlý Vergi Dairesi Müdürlüðü
+701
+45 MANÝSA
+Soma
+45208
+Soma Vergi Dairesi Müdürlüðü
+702
+45 MANÝSA
+Turgutlu
+45209
+Turgutlu Vergi Dairesi Müdürlüðü
+703
+45 MANÝSA
+Gördes
+45210
+Gördes Vergi Dairesi Müdürlüðü
+704
+45 MANÝSA
+Kula
+45211
+Kula Vergi Dairesi Müdürlüðü
+705
+45 MANÝSA
+Selendi
+45110
+Selendi Malmüdürlüðü
+706
+45 MANÝSA
+Ahmetli
+45113
+Ahmetli Malmüdürlüðü
+707
+45 MANÝSA
+Gölmarmara
+45114
+Gölmarmara Malmüdürlüðü
+708
+45 MANÝSA
+Köprübaþý
+45115
+Köprübaþý Malmüdürlüðü
+709
+46 KAHRAMANMARAÞ
+Merkez
+46201
+Aslanbey Vergi Dairesi Müdürlüðü
+710
+46 KAHRAMANMARAÞ
+Merkez
+46280
+Aksu Vergi Dairesi Müdürlüðü
+711
+46 KAHRAMANMARAÞ
+Elbistan
+46260
+Elbistan Vergi Dairesi Müdürlüðü
+712
+46 KAHRAMANMARAÞ
+Afþin
+46261
+Afþin Vergi Dairesi Müdürlüðü
+713
+46 KAHRAMANMARAÞ
+Pazarcýk
+46262
+Pazarcýk Vergi Dairesi Müdürlüðü
+714
+46 KAHRAMANMARAÞ
+Andýrýn
+46102
+Andýrýn Malmüdürlüðü
+715
+46 KAHRAMANMARAÞ
+Göksun
+46104
+Göksun Malmüdürlüðü
+716
+46 KAHRAMANMARAÞ
+Türkoðlu
+46106
+Türkoðlu Malmüdürlüðü
+717
+46 KAHRAMANMARAÞ
+Çaðlayancerit
+46107
+Çaðlayancerit Malmüdürlüðü
+718
+46 KAHRAMANMARAÞ
+Ekinözü
+46108
+Ekinözü Malmüdürlüðü
+719
+46 KAHRAMANMARAÞ
+Nurhak
+46109
+Nurhak Malmüdürlüðü
+720
+47 MARDÝN
+Merkez
+47260
+Mardin Vergi Dairesi Müdürlüðü
+721
+47 MARDÝN
+Kýzýltepe
+47261
+Kýzýltepe Vergi Dairesi Müdürlüðü
+722
+47 MARDÝN
+Nusaybin
+47262
+Nusaybin Vergi Dairesi Müdürlüðü
+723
+47 MARDÝN
+Derik
+47102
+Derik Malmüdürlüðü
+724
+47 MARDÝN
+Mazýdaðý
+47106
+Mazýdaðý Malmüdürlüðü
+725
+47 MARDÝN
+Midyat
+47107
+Midyat Malmüdürlüðü
+726
+47 MARDÝN
+Ömerli
+47109
+Ömerli Malmüdürlüðü
+727
+47 MARDÝN
+Savur
+47110
+Savur Malmüdürlüðü
+728
+47 MARDÝN
+Dargeçit
+47112
+Dargeçit Malmüdürlüðü
+729
+47 MARDÝN
+Yeþilli
+47113
+Yeþilli Malmüdürlüðü
+730
+48 MUÐLA
+Merkez
+48260
+Muðla Vergi Dairesi Müdürlüðü
+731
+48 MUÐLA
+Bodrum
+48261
+Bodrum Vergi Dairesi Müdürlüðü
+732
+48 MUÐLA
+Fethiye
+48262
+Fethiye Vergi Dairesi Müdürlüðü
+733
+48 MUÐLA
+Köyceðiz
+48263
+Köyceðiz Vergi Dairesi Müdürlüðü
+734
+48 MUÐLA
+Milas
+48264
+Milas Vergi Dairesi Müdürlüðü
+735
+48 MUÐLA
+Marmaris
+48265
+Marmaris Vergi Dairesi Müdürlüðü
+736
+48 MUÐLA
+Yataðan
+48266
+Yataðan Vergi Dairesi Müdürlüðü
+737
+48 MUÐLA
+Datça
+48102
+Datça Malmüdürlüðü
+738
+48 MUÐLA
+Ula
+48108
+Ula Malmüdürlüðü
+739
+48 MUÐLA
+Dalaman
+48109
+Dalaman Malmüdürlüðü
+740
+48 MUÐLA
+Ortaca
+48110
+Ortaca Malmüdürlüðü
+741
+48 MUÐLA
+Kavaklýdere
+48111
+Kavaklýdere Malmüdürlüðü
+742
+48 MUÐLA
+Seydiemer
+48113
+Seydikemer Malmüdürlüðü
+743
+49 MUÞ
+Merkez
+49260
+Muþ Vergi Dairesi Müdürlüðü
+744
+49 MUÞ
+Bulanýk
+49101
+Bulanýk Malmüdürlüðü
+745
+49 MUÞ
+Malazgirt
+49102
+Malazgirt Malmüdürlüðü
+746
+49 MUÞ
+Varto
+49103
+Varto Malmüdürlüðü
+747
+49 MUÞ
+Hasköy
+49104
+Hasköy Malmüdürlüðü
+748
+49 MUÞ
+Korkut
+49105
+Korkut Malmüdürlüðü
+749
+50 NEVÞEHÝR
+Merkez
+50260
+Nevþehir Vergi Dairesi Müdürlüðü
+750
+50 NEVÞEHÝR
+Avanos
+50101
+Avanos Malmüdürlüðü
+751
+50 NEVÞEHÝR
+Derinkuyu
+50102
+Derinkuyu Malmüdürlüðü
+752
+50 NEVÞEHÝR
+Gülþehir
+50103
+Gülþehir Malmüdürlüðü
+753
+50 NEVÞEHÝR
+Hacýbektaþ
+50104
+Hacýbektaþ Malmüdürlüðü
+12 15.11.2017
+SIRA NO.
+ÝL
+ÝLÇE
+SAY. KODU
+VERGÝ DAÝRESÝ
+754
+50 NEVÞEHÝR
+Kozaklý
+50105
+Kozaklý Malmüdürlüðü
+755
+50 NEVÞEHÝR
+Ürgüp
+50106
+Ürgüp Malmüdürlüðü
+756
+50 NEVÞEHÝR
+Acýgöl
+50107
+Acýgöl Malmüdürlüðü
+757
+51 NÝÐDE
+Merkez
+51260
+Niðde Vergi Dairesi Müdürlüðü
+758
+51 NÝÐDE
+Bor
+51262
+Bor Vergi Dairesi Müdürlüðü
+759
+51 NÝÐDE
+Çamardý
+51103
+Çamardý Malmüdürlüðü
+760
+51 NÝÐDE
+Ulukýþla
+51105
+Ulukýþla Malmüdürlüðü
+761
+51 NÝÐDE
+Altunhisar
+51106
+Altunhisar Malmüdürlüðü
+762
+51 NÝÐDE
+Çiftlik
+51107
+Çiftlik Malmüdürlüðü
+763
+52 ORDU
+Merkez
+52201
+Boztepe Vergi Dairesi Müdürlüðü
+764
+52 ORDU
+Merkez
+52260
+Köprübaþý Vergi Dairesi Müdürlüðü
+765
+52 ORDU
+Fatsa
+52261
+Fatsa Vergi Dairesi Müdürlüðü
+766
+52 ORDU
+Ünye
+52262
+Ünye Vergi Dairesi Müdürlüðü
+767
+52 ORDU
+Akkuþ
+52101
+Akkuþ Malmüdürlüðü
+768
+52 ORDU
+Aybastý
+52102
+Aybastý Malmüdürlüðü
+769
+52 ORDU
+Gölköy
+52104
+Gölköy Malmüdürlüðü
+770
+52 ORDU
+Korgan
+52105
+Korgan Malmüdürlüðü
+771
+52 ORDU
+Kumru
+52106
+Kumru Malmüdürlüðü
+772
+52 ORDU
+Mesudiye
+52107
+Mesudiye Malmüdürlüðü
+773
+52 ORDU
+Perþembe
+52108
+Perþembe Malmüdürlüðü
+774
+52 ORDU
+Ulubey
+52109
+Ulubey Malmüdürlüðü
+775
+52 ORDU
+Gülyalý
+52111
+Gülyalý Malmüdürlüðü
+776
+52 ORDU
+Gürgentepe
+52112
+Gürgentepe Malmüdürlüðü
+777
+52 ORDU
+Çamaþ
+52113
+Çamaþ Malmüdürlüðü
+778
+52 ORDU
+Çatalpýnar
+52114
+Çatalpýnar Malmüdürlüðü
+779
+52 ORDU
+Çaybaþý
+52115
+Çaybaþý Malmüdürlüðü
+780
+52 ORDU
+Ýkizce
+52116
+Ýkizce Malmüdürlüðü
+781
+52 ORDU
+Kabadüz
+52117
+Kabadüz Malmüdürlüðü
+782
+52 ORDU
+Kabataþ
+52118
+Kabataþ Malmüdürlüðü
+783
+53 RÝZE
+Merkez
+53201
+Kaçkar Vergi Dairesi Müdürlüðü
+784
+53 RÝZE
+Merkez
+53260
+Yeþilçay Vergi Dairesi Müdürlüðü
+785
+53 RÝZE
+Çayeli
+53261
+Çayeli Vergi Dairesi Müdürlüðü
+786
+53 RÝZE
+Pazar
+53262
+Pazar Vergi Dairesi Müdürlüðü
+787
+53 RÝZE
+Ardeþen
+53263
+Ardeþen Vergi Dairesi Müdürlüðü
+788
+53 RÝZE
+Çamlýhemþin
+53102
+Çamlýhemþin Malmüdürlüðü
+789
+53 RÝZE
+Fýndýklý
+53104
+Fýndýklý Malmüdürlüðü
+790
+53 RÝZE
+Ýkizdere
+53105
+Ýkizdere Malmüdürlüðü
+791
+53 RÝZE
+Kalkandere
+53106
+Kalkandere Malmüdürlüðü
+792
+53 RÝZE
+Güneysu
+53108
+Güneysu Malmüdürlüðü
+793
+53 RÝZE
+Derepazarý
+53109
+Derepazarý Malmüdürlüðü
+794
+53 RÝZE
+Hemþin
+53110
+Hemþin Malmüdürlüðü
+795
+53 RÝZE
+Ýyidere
+53111
+Ýyidere Malmüdürlüðü
+796
+54 SAKARYA
+Merkez
+54251
+Gümrükönü Vergi Dairesi Müdürlüðü
+797
+54 SAKARYA
+Merkez
+54252
+Ali Fuat Cebesoy Vergi Dairesi Müdürlüðü
+798
+54 SAKARYA
+Merkez- (5216)
+54253
+Sapanca Vergi Dairesi Müdürlüðü
+799
+54 SAKARYA
+Merkez- (5216)
+54201
+Akyazý Vergi Dairesi Müdürlüðü
+800
+54 SAKARYA
+Geyve
+54202
+Geyve Vergi Dairesi Müdürlüðü
+801
+54 SAKARYA
+Merkez- (5216)
+54203
+Hendek Vergi Dairesi Müdürlüðü
+802
+54 SAKARYA
+Karasu
+54204
+Karasu Vergi Dairesi Müdürlüðü
+803
+54 SAKARYA
+Kaynarca
+54105
+Kaynarca Malmüdürlüðü
+804
+54 SAKARYA
+Kocaali
+54107
+Kocaali Malmüdürlüðü
+805
+54 SAKARYA
+Pamukova
+54108
+Pamukova Malmüdürlüðü
+806
+54 SAKARYA
+Taraklý
+54109
+Taraklý Malmüdürlüðü
+807
+54 SAKARYA
+Merkez- (5216)
+54111
+Karapürçek Malmüdürlüðü
+808
+55 SAMSUN
+Merkez
+55251
+19 Mayýs Vergi Dairesi Müdürlüðü
+809
+55 SAMSUN
+Merkez
+55252
+Gaziler Vergi Dairesi Müdürlüðü
+810
+55 SAMSUN
+Merkez
+55290
+Zafer Vergi Dairesi Müdürlüðü
+811
+55 SAMSUN
+Bafra
+55202
+Bafra Vergi Dairesi Müdürlüðü
+812
+55 SAMSUN
+Çarþamba
+55203
+Çarþamba Vergi Dairesi Müdürlüðü
+813
+55 SAMSUN
+Terme
+55204
+Terme Vergi Dairesi Müdürlüðü
+814
+55 SAMSUN
+Havza
+55205
+Havza Vergi Dairesi Müdürlüðü
+815
+55 SAMSUN
+Alaçam
+55101
+Alaçam Malmüdürlüðü
+816
+55 SAMSUN
+Kavak
+55105
+Kavak Malmüdürlüðü
+13 15.11.2017
+SIRA NO.
+ÝL
+ÝLÇE
+SAY. KODU
+VERGÝ DAÝRESÝ
+817
+55 SAMSUN
+Ladik
+55106
+Ladik Malmüdürlüðü
+818
+55 SAMSUN
+Vezirköprü
+55108
+Vezirköprü Malmüdürlüðü
+819
+55 SAMSUN
+Asarcýk
+55109
+Asarcýk Malmüdürlüðü
+820
+55 SAMSUN
+Ondokuz Mayýs
+55110
+Ondokuz Mayýs Malmüdürlüðü
+821
+55 SAMSUN
+Salýpazarý
+55111
+Salýpazarý Malmüdürlüðü
+822
+55 SAMSUN
+Merkez- (5216)
+55112
+Tekkeköy Malmüdürlüðü
+823
+55 SAMSUN
+Ayvacýk
+55113
+Ayvacýk Malmüdürlüðü
+824
+55 SAMSUN
+Yakakent
+55114
+Yakakent Malmüdürlüðü
+825
+56 SÝÝRT
+Merkez
+56260
+Siirt Vergi Dairesi Müdürlüðü
+826
+56 SÝÝRT
+Baykan
+56102
+Baykan Malmüdürlüðü
+827
+56 SÝÝRT
+Eruh
+56104
+Eruh Malmüdürlüðü
+828
+56 SÝÝRT
+Kurtalan
+56106
+Kurtalan Malmüdürlüðü
+829
+56 SÝÝRT
+Pervari
+56107
+Pervari Malmüdürlüðü
+830
+56 SÝÝRT
+Þirvan
+56110
+Þirvan Malmüdürlüðü
+831
+57 SÝNOP
+Merkez
+57260
+Sinop Vergi Dairesi Müdürlüðü
+832
+57 SÝNOP
+Boyabat
+57261
+Boyabat Vergi Dairesi Müdürlüðü
+833
+57 SÝNOP
+Ayancýk
+57101
+Ayancýk Malmüdürlüðü
+834
+57 SÝNOP
+Duraðan
+57103
+Duraðan Malmüdürlüðü
+835
+57 SÝNOP
+Erfelek
+57104
+Erfelek Malmüdürlüðü
+836
+57 SÝNOP
+Gerze
+57105
+Gerze Malmüdürlüðü
+837
+57 SÝNOP
+Türkeli
+57106
+Türkeli Malmüdürlüðü
+838
+57 SÝNOP
+Dikmen
+57107
+Dikmen Malmüdürlüðü
+839
+57 SÝNOP
+Saraydüzü
+57108
+Saraydüzü Malmüdürlüðü
+840
+58 SÝVAS
+Merkez
+58201
+Kale Vergi Dairesi Müdürlüðü
+841
+58 SÝVAS
+Merkez
+58280
+Site Vergi Dairesi Müdürlüðü
+842
+58 SÝVAS
+Þarkýþla
+58260
+Þarkýþla Vergi Dairesi Müdürlüðü
+843
+58 SÝVAS
+Divriði
+58101
+Divriði Malmüdürlüðü
+844
+58 SÝVAS
+Gemerek
+58102
+Gemerek Malmüdürlüðü
+845
+58 SÝVAS
+Gürün
+58103
+Gürün Malmüdürlüðü
+846
+58 SÝVAS
+Hafik
+58104
+Hafik Malmüdürlüðü
+847
+58 SÝVAS
+Ýmranlý
+58105
+Ýmranlý Malmüdürlüðü
+848
+58 SÝVAS
+Kangal
+58106
+Kangal Malmüdürlüðü
+849
+58 SÝVAS
+Koyulhisar
+58107
+Koyulhisar Malmüdürlüðü
+850
+58 SÝVAS
+Suþehri
+58109
+Suþehri Malmüdürlüðü
+851
+58 SÝVAS
+Yýldýzeli
+58110
+Yýldýzeli Malmüdürlüðü
+852
+58 SÝVAS
+Zara
+58111
+Zara Malmüdürlüðü
+853
+58 SÝVAS
+Akýncýlar
+58112
+Akýncýlar Malmüdürlüðü
+854
+58 SÝVAS
+Altýnyayla
+58113
+Altýnyayla Malmüdürlüðü
+855
+58 SÝVAS
+Doðanþar
+58114
+Doðanþar Malmüdürlüðü
+856
+58 SÝVAS
+Gölova
+58115
+Gölova Malmüdürlüðü
+857
+58 SÝVAS
+Ulaþ
+58116
+Ulaþ Malmüdürlüðü
+858
+59 TEKÝRDAÐ
+Merkez
+59201
+Süleymanpaþa Vergi Dairesi Müdürlüðü
+859
+59 TEKÝRDAÐ
+Merkez
+59260
+Namýk Kemal Vergi Dairesi Müdürlüðü
+860
+59 TEKÝRDAÐ
+Çerkezköy
+59261
+Çerkezköy Vergi Dairesi Müdürlüðü
+861
+59 TEKÝRDAÐ
+Çorlu
+59262
+Çorlu Vergi Dairesi Müdürlüðü
+862
+59 TEKÝRDAÐ
+Hayrabolu
+59263
+Hayrabolu Vergi Dairesi Müdürlüðü
+863
+59 TEKÝRDAÐ
+Malkara
+59264
+Malkara Vergi Dairesi Müdürlüðü
+864
+59 TEKÝRDAÐ
+Muratlý
+59265
+Muratlý Vergi Dairesi Müdürlüðü
+865
+59 TEKÝRDAÐ
+Saray
+59106
+Saray Malmüdürlüðü
+866
+59 TEKÝRDAÐ
+Þarköy
+59107
+Þarköy Malmüdürlüðü
+867
+59 TEKÝRDAÐ
+Marmara Ereðlisi
+59108
+Marmara Ereðlisi Malmüdürlüðü
+868
+60 TOKAT
+Merkez
+60260
+Tokat Vergi Dairesi Müdürlüðü
+869
+60 TOKAT
+Erbaa
+60261
+Erbaa Vergi Dairesi Müdürlüðü
+870
+60 TOKAT
+Niksar
+60262
+Niksar Vergi Dairesi Müdürlüðü
+871
+60 TOKAT
+Turhal
+60263
+Turhal Vergi Dairesi Müdürlüðü
+872
+60 TOKAT
+Zile
+60264
+Zile Vergi Dairesi Müdürlüðü
+873
+60 TOKAT
+Almus
+60101
+Almus Malmüdürlüðü
+874
+60 TOKAT
+Artova
+60102
+Artova Malmüdürlüðü
+875
+60 TOKAT
+Reþadiye
+60105
+Reþadiye Malmüdürlüðü
+876
+60 TOKAT
+Pazar
+60108
+Pazar Malmüdürlüðü
+877
+60 TOKAT
+Yeþilyurt
+60109
+Yeþilyurt Malmüdürlüðü
+878
+60 TOKAT
+Baþçiftlik
+60110
+Baþçiftlik Malmüdürlüðü
+879
+60 TOKAT
+Sulusaray
+60111
+Sulusaray Malmüdürlüðü
+14 15.11.2017
+SIRA NO.
+ÝL
+ÝLÇE
+SAY. KODU
+VERGÝ DAÝRESÝ
+880
+61 TRABZON
+Merkez
+61201
+Hýzýrbey Vergi Dairesi Müdürlüðü
+881
+61 TRABZON
+Merkez
+61280
+Karadeniz Vergi Dairesi Müdürlüðü
+882
+61 TRABZON
+Akçaabat
+61260
+Akçaabat Vergi Dairesi Müdürlüðü
+883
+61 TRABZON
+Of
+61261
+Of Vergi Dairesi Müdürlüðü
+884
+61 TRABZON
+Vakfýkebir
+61262
+Vakfýkebir Vergi Dairesi Müdürlüðü
+885
+61 TRABZON
+Araklý
+61102
+Araklý Malmüdürlüðü
+886
+61 TRABZON
+Arsin
+61103
+Arsin Malmüdürlüðü
+887
+61 TRABZON
+Çaykara
+61104
+Çaykara Malmüdürlüðü
+888
+61 TRABZON
+Maçka
+61105
+Maçka Malmüdürlüðü
+889
+61 TRABZON
+Sürmene
+61107
+Sürmene Malmüdürlüðü
+890
+61 TRABZON
+Tonya
+61108
+Tonya Malmüdürlüðü
+891
+61 TRABZON
+Yomra
+61110
+Yomra Malmüdürlüðü
+892
+61 TRABZON
+Beþikdüzü
+61111
+Beþikdüzü Malmüdürlüðü
+893
+61 TRABZON
+Þalpazarý
+61112
+Þalpazarý Malmüdürlüðü
+894
+61 TRABZON
+Çarþýbaþý
+61113
+Çarþýbaþý Malmüdürlüðü
+895
+61 TRABZON
+Dernekpazarý
+61114
+Dernekpazarý Malmüdürlüðü
+896
+61 TRABZON
+Düzköy
+61115
+Düzköy Malmüdürlüðü
+897
+61 TRABZON
+Hayrat
+61116
+Hayrat Malmüdürlüðü
+898
+61 TRABZON
+Köprübaþý
+61117
+Köprübaþý Malmüdürlüðü
+899
+62 TUNCELÝ
+Merkez
+62260
+Tunceli Vergi Dairesi Müdürlüðü
+900
+62 TUNCELÝ
+Çemiþgezek
+62101
+Çemiþgezek Malmüdürlüðü
+901
+62 TUNCELÝ
+Hozat
+62102
+Hozat Malmüdürlüðü
+902
+62 TUNCELÝ
+Mazgirt
+62103
+Mazgirt Malmüdürlüðü
+903
+62 TUNCELÝ
+Nazimiye
+62104
+Nazimiye Malmüdürlüðü
+904
+62 TUNCELÝ
+Ovacýk
+62105
+Ovacýk Malmüdürlüðü
+905
+62 TUNCELÝ
+Pertek
+62106
+Pertek Malmüdürlüðü
+906
+62 TUNCELÝ
+Pülümür
+62107
+Pülümür Malmüdürlüðü
+907
+63 ÞANLIURFA
+Merkez
+63201
+Þehitlik Vergi Dairesi Müdürlüðü
+908
+63 ÞANLIURFA
+Merkez
+63280
+Topçu Meydaný Vergi Dairesi Müdürlüðü
+909
+63 ÞANLIURFA
+Siverek
+63260
+Siverek Vergi Dairesi Müdürlüðü
+910
+63 ÞANLIURFA
+Viranþehir
+63261
+Viranþehir Vergi Dairesi Müdürlüðü
+911
+63 ÞANLIURFA
+Birecik
+63262
+Birecik Vergi Dairesi Müdürlüðü
+912
+63 ÞANLIURFA
+Akçakale
+63101
+Akçakale Malmüdürlüðü
+913
+63 ÞANLIURFA
+Bozova
+63103
+Bozova Malmüdürlüðü
+914
+63 ÞANLIURFA
+Halfeti
+63104
+Halfeti Malmüdürlüðü
+915
+63 ÞANLIURFA
+Hilvan
+63105
+Hilvan Malmüdürlüðü
+916
+63 ÞANLIURFA
+Suruç
+63107
+Suruç Malmüdürlüðü
+917
+63 ÞANLIURFA
+Ceylanpýnar
+63109
+Ceylanpýnar Malmüdürlüðü
+918
+63 ÞANLIURFA
+Harran
+63110
+Harran Malmüdürlüðü
+919
+64 UÞAK
+Merkez
+64260
+Uþak Vergi Dairesi Müdürlüðü
+920
+64 UÞAK
+Banaz
+64261
+Banaz Vergi Dairesi Müdürlüðü
+921
+64 UÞAK
+Eþme
+64262
+Eþme Vergi Dairesi Müdürlüðü
+922
+64 UÞAK
+Karahallý
+64103
+Karahallý Malmüdürlüðü
+923
+64 UÞAK
+Ulubey
+64104
+Ulubey Malmüdürlüðü
+924
+64 UÞAK
+Sivaslý
+64105
+Sivaslý Malmüdürlüðü
+925
+65 VAN
+Merkez
+65260
+Van Vergi Dairesi Müdürlüðü
+926
+65 VAN
+Erciþ
+65201
+Erciþ Vergi Dairesi Müdürlüðü
+927
+65 VAN
+Baþkale
+65101
+Baþkale Malmüdürlüðü
+928
+65 VAN
+Çatak
+65102
+Çatak Malmüdürlüðü
+929
+65 VAN
+Gevaþ
+65104
+Gevaþ Malmüdürlüðü
+930
+65 VAN
+Gürpýnar
+65105
+Gürpýnar Malmüdürlüðü
+931
+65 VAN
+Muradiye
+65106
+Muradiye Malmüdürlüðü
+932
+65 VAN
+Özalp
+65107
+Özalp Malmüdürlüðü
+933
+65 VAN
+Bahçesaray
+65108
+Bahçesaray Malmüdürlüðü
+934
+65 VAN
+Çaldýran
+65109
+Çaldýran Malmüdürlüðü
+935
+65 VAN
+Edremit
+65110
+Edremit Malmüdürlüðü
+936
+65 VAN
+Saray
+65111
+Saray Malmüdürlüðü
+937
+66 YOZGAT
+Merkez
+66260
+Yozgat Vergi Dairesi Müdürlüðü
+938
+66 YOZGAT
+Boðazlýyan
+66261
+Boðazlýyan Vergi Dairesi Müdürlüðü
+939
+66 YOZGAT
+Sorgun
+66262
+Sorgun Vergi Dairesi Müdürlüðü
+940
+66 YOZGAT
+Yerköy
+66263
+Yerköy Vergi Dairesi Müdürlüðü
+941
+66 YOZGAT
+Akdaðmadeni
+66101
+Akdaðmadeni Malmüdürlüðü
+942
+66 YOZGAT
+Çayýralan
+66103
+Çayýralan Malmüdürlüðü
+15 15.11.2017
+SIRA NO.
+ÝL
+ÝLÇE
+SAY. KODU
+VERGÝ DAÝRESÝ
+943
+66 YOZGAT
+Çekerek
+66104
+Çekerek Malmüdürlüðü
+944
+66 YOZGAT
+Sarýkaya
+66105
+Sarýkaya Malmüdürlüðü
+945
+66 YOZGAT
+Þefaatli
+66106
+Þefaatli Malmüdürlüðü
+946
+66 YOZGAT
+Aydýncýk
+66109
+Aydýncýk Malmüdürlüðü
+947
+66 YOZGAT
+Çandýr
+66110
+Çandýr Malmüdürlüðü
+948
+66 YOZGAT
+Kadýþehri
+66111
+Kadýþehri Malmüdürlüðü
+949
+66 YOZGAT
+Saraykent
+66112
+Saraykent Malmüdürlüðü
+950
+66 YOZGAT
+Yenifakýlý
+66113
+Yenifakýlý Malmüdürlüðü
+951
+67 ZONGULDAK
+Merkez
+67201
+Uzunmehmet Vergi Dairesi Müdürlüðü
+952
+67 ZONGULDAK
+Merkez
+67280
+Kara Elmas Vergi Dairesi Müdürlüðü
+953
+67 ZONGULDAK
+Ereðli
+67261
+Ereðli Vergi Dairesi Müdürlüðü
+954
+67 ZONGULDAK
+Çaycuma
+67263
+Çaycuma Vergi Dairesi Müdürlüðü
+955
+67 ZONGULDAK
+Devrek
+67264
+Devrek Vergi Dairesi Müdürlüðü
+956
+67 ZONGULDAK
+Alaplý
+67110
+Alaplý Malmüdürlüðü
+957
+67 ZONGULDAK
+Gökçebey
+67113
+Gökçebey Malmüdürlüðü
+958
+68 AKSARAY
+Merkez
+68201
+Aksaray Vergi Dairesi Müdürlüðü
+959
+68 AKSARAY
+Aðaçören
+68101
+Aðaçören Malmüdürlüðü
+960
+68 AKSARAY
+Güzelyurt
+68102
+Güzelyurt Malmüdürlüðü
+961
+68 AKSARAY
+Ortaköy
+68103
+Ortaköy Malmüdürlüðü
+962
+68 AKSARAY
+Sarýyahþi
+68104
+Sarýyahþi Malmüdürlüðü
+963
+68 AKSARAY
+Eskil
+68105
+Eskil Malmüdürlüðü
+964
+68 AKSARAY
+Gülaðaç
+68106
+Gülaðaç Malmüdürlüðü
+965
+69 BAYBURT
+Merkez
+69201
+Bayburt Vergi Dairesi Müdürlüðü
+966
+69 BAYBURT
+Aydýntepe
+69101
+Aydýntepe Malmüdürlüðü
+967
+69 BAYBURT
+Demirözü
+69102
+Demirözü Malmüdürlüðü
+968
+70 KARAMAN
+Merkez
+70201
+Karaman Vergi Dairesi Müdürlüðü
+969
+70 KARAMAN
+Ayrancý
+70101
+Ayrancý Malmüdürlüðü
+970
+70 KARAMAN
+Ermenek
+70102
+Ermenek Malmüdürlüðü
+971
+70 KARAMAN
+Kazým Karabekir
+70103
+Kazým Karabekir Malmüdürlüðü
+972
+70 KARAMAN
+Baþyayla
+70104
+Baþyayla Malmüdürlüðü
+973
+70 KARAMAN
+Sarýveliler
+70105
+Sarýveliler Malmüdürlüðü
+974
+71 KIRIKKALE
+Merkez
+71201
+Irmak Vergi Dairesi Müdürlüðü
+975
+71 KIRIKKALE
+Merkez
+71202
+Kaletepe Vergi Dairesi Müdürlüðü
+976
+71 KIRIKKALE
+Delice
+71101
+Delice Malmüdürlüðü
+977
+71 KIRIKKALE
+Keskin
+71102
+Keskin Malmüdürlüðü
+978
+71 KIRIKKALE
+Sulakyurt
+71103
+Sulakyurt Malmüdürlüðü
+979
+71 KIRIKKALE
+Balýþeyh
+71105
+Balýþeyh Malmüdürlüðü
+980
+71 KIRIKKALE
+Çelebi
+71106
+Çelebi Malmüdürlüðü
+981
+71 KIRIKKALE
+Karakeçili
+71107
+Karakeçili Malmüdürlüðü
+982
+72 BATMAN
+Merkez
+72260
+Batman Vergi Dairesi Müdürlüðü
+983
+72 BATMAN
+Beþiri
+72101
+Beþiri Malmüdürlüðü
+984
+72 BATMAN
+Gercüþ
+72102
+Gercüþ Malmüdürlüðü
+985
+72 BATMAN
+Hasankeyf
+72103
+Hasankeyf Malmüdürlüðü
+986
+72 BATMAN
+Kozluk
+72104
+Kozluk Malmüdürlüðü
+987
+72 BATMAN
+Sason
+72105
+Sason Malmüdürlüðü
+988
+73 ÞIRNAK
+Merkez
+73260
+Þýrnak Vergi Dairesi Müdürlüðü
+989
+73 ÞIRNAK
+Cizre
+73261
+Cizre Vergi Dairesi Müdürlüðü
+990
+73 ÞIRNAK
+Silopi
+73262
+Silopi Vergi Dairesi Müdürlüðü
+991
+73 ÞIRNAK
+Beytüþþebap
+73101
+Beytüþþebap Malmüdürlüðü
+992
+73 ÞIRNAK
+Güçlükonak
+73103
+Güçlükonak Malmüdürlüðü
+993
+73 ÞIRNAK
+Ýdil
+73104
+Ýdil Malmüdürlüðü
+994
+73 ÞIRNAK
+Uludere
+73106
+Uludere Malmüdürlüðü
+995
+74 BARTIN
+Merkez
+74260
+Bartýn Vergi Dairesi Müdürlüðü
+996
+74 BARTIN
+Amasra
+74101
+Amasra Malmüdürlüðü
+997
+74 BARTIN
+Kurucaþile
+74102
+Kurucaþile Malmüdürlüðü
+998
+74 BARTIN
+Ulus
+74103
+Ulus Malmüdürlüðü
+999
+75 ARDAHAN
+Merkez
+75201
+Ardahan Vergi Dairesi Müdürlüðü
+1000
+75 ARDAHAN
+Çýldýr
+75101
+Çýldýr Malmüdürlüðü
+1001
+75 ARDAHAN
+Damal
+75102
+Damal Malmüdürlüðü
+1002
+75 ARDAHAN
+Göle
+75103
+Göle Malmüdürlüðü
+1003
+75 ARDAHAN
+Hanak
+75104
+Hanak Malmüdürlüðü
+1004
+75 ARDAHAN
+Posof
+75105
+Posof Malmüdürlüðü
+1005
+76 IÐDIR
+Merkez
+76201
+Iðdýr Vergi Dairesi Müdürlüðü
+16 15.11.2017
+SIRA NO.
+ÝL
+ÝLÇE
+SAY. KODU
+VERGÝ DAÝRESÝ
+1006
+76 IÐDIR
+Aralýk
+76101
+Aralýk Malmüdürlüðü
+1007
+76 IÐDIR
+Karakoyunlu
+76102
+Karakoyunlu Malmüdürlüðü
+1008
+76 IÐDIR
+Tuzluca
+76103
+Tuzluca Malmüdürlüðü
+1009
+77 YALOVA
+Merkez
+77201
+Yalova Vergi Dairesi Müdürlüðü
+1010
+77 YALOVA
+Altýnova
+77101
+Altýnova Malmüdürlüðü
+1011
+77 YALOVA
+Armutlu
+77102
+Armutlu Malmüdürlüðü
+1012
+77 YALOVA
+Çýnarcýk
+77103
+Çýnarcýk Malmüdürlüðü
+1013
+78 KARABÜK
+Merkez
+78201
+Karabük Vergi Dairesi Müdürlüðü
+1014
+78 KARABÜK
+Safranbolu
+78260
+Safranbolu Vergi Dairesi Müdürlüðü
+1015
+78 KARABÜK
+Eflani
+78101
+Eflani Malmüdürlüðü
+1016
+78 KARABÜK
+Eskipazar
+78102
+Eskipazar Malmüdürlüðü
+1017
+78 KARABÜK
+Ovacýk
+78103
+Ovacýk Malmüdürlüðü
+1018
+78 KARABÜK
+Yenice
+78105
+Yenice Malmüdürlüðü
+1019
+79 KÝLÝS
+Merkez
+79201
+Kilis Vergi Dairesi Müdürlüðü
+1020
+80 OSMANÝYE
+Merkez
+80201
+Osmaniye Vergi Dairesi Müdürlüðü
+1021
+80 OSMANÝYE
+Kadirli
+80260
+Kadirli Vergi Dairesi Müdürlüðü
+1022
+80 OSMANÝYE
+Bahçe
+80101
+Bahçe Malmüdürlüðü
+1023
+80 OSMANÝYE
+Düziçi
+80102
+Düziçi Malmüdürlüðü
+1024
+80 OSMANÝYE
+Hasanbeyli
+80104
+Hasanbeyli Malmüdürlüðü
+1025
+80 OSMANÝYE
+Sumbas
+80105
+Sumbas Malmüdürlüðü
+1026
+80 OSMANÝYE
+Toprakkale
+80106
+Toprakkale Malmüdürlüðü
+1027
+81 DÜZCE
+Merkez
+81260
+Düzce Vergi Dairesi Müdürlüðü
+1028
+81 DÜZCE
+Akçakoca
+81261
+Akçakoca Vergi Dairesi Müdürlüðü
+1029
+81 DÜZCE
+Yýðýlca
+81107
+Yýðýlca Malmüdürlüðü
+1030
+81 DÜZCE
+Cumayeri
+81102
+Cumayeri Malmüdürlüðü
+1031
+81 DÜZCE
+Gölyaka
+81104
+Gölyaka Malmüdürlüðü
+1032
+81 DÜZCE
+Çilimli
+81103
+Çilimli Malmüdürlüðü
+1033
+81 DÜZCE
+Gümüþova
+81105
+Gümüþova Malmüdürlüðü
+1034
+81 DÜZCE
+Kaynaþlý
+81106
+Kaynaþlý Malmüdürlüðü
+17 15.11.2017
