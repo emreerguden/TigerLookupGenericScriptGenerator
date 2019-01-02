@@ -226,6 +226,14 @@ namespace TigerLookupDataChecker.Helpers
                 //Insert scriptleri mevcut ayiklanmis kayitlar uzerinden olusturulur
                 if (townXml.Towns != null)
                 {
+                    if (townMaxCodeResult == null || !townMaxCodeResult.Any())
+                    {
+                        townMaxCodeResult = cityResult.Select(f => new Dictionary<string, object>()
+                        {
+                            { "CTYREF", f["CODE"].ToString()},
+                            {"MAXCODE","00" }
+                        }).ToList();
+                    }
                     //Sehirler bazında donulur
                     //sehir icin max code alınır sıradan devam ettirilir
                     foreach (var currentCityRecord in townMaxCodeResult.OrderBy(f => f["CTYREF"]))

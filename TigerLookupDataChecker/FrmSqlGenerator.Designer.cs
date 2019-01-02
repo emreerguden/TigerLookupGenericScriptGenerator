@@ -30,6 +30,7 @@
         {
             this.panel1 = new System.Windows.Forms.Panel();
             this.btnGenerateLookupSqls = new System.Windows.Forms.Button();
+            this.btnExecuteSql = new System.Windows.Forms.Button();
             this.btnGenerateSqls = new System.Windows.Forms.Button();
             this.gcFirms = new DevExpress.XtraGrid.GridControl();
             this.gvFirms = new DevExpress.XtraGrid.Views.Grid.GridView();
@@ -56,7 +57,6 @@
             this.btnCheckConnection = new System.Windows.Forms.Button();
             this.txtTemplateSql = new System.Windows.Forms.RichTextBox();
             this.groupControl1 = new DevExpress.XtraEditors.GroupControl();
-            this.btnExecuteSql = new System.Windows.Forms.Button();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.gcFirms)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.gvFirms)).BeginInit();
@@ -91,6 +91,17 @@
             this.btnGenerateLookupSqls.Text = "Generate Lookup Sqls From Input Xmls";
             this.btnGenerateLookupSqls.UseVisualStyleBackColor = true;
             this.btnGenerateLookupSqls.Click += new System.EventHandler(this.btnGenerateLookupSqls_Click);
+            // 
+            // btnExecuteSql
+            // 
+            this.btnExecuteSql.Dock = System.Windows.Forms.DockStyle.Right;
+            this.btnExecuteSql.Location = new System.Drawing.Point(566, 0);
+            this.btnExecuteSql.Name = "btnExecuteSql";
+            this.btnExecuteSql.Size = new System.Drawing.Size(196, 36);
+            this.btnExecuteSql.TabIndex = 3;
+            this.btnExecuteSql.Text = "Execute Scripts Directly";
+            this.btnExecuteSql.UseVisualStyleBackColor = true;
+            this.btnExecuteSql.Click += new System.EventHandler(this.btnExecuteSql_Click);
             // 
             // btnGenerateSqls
             // 
@@ -173,7 +184,7 @@
             // 
             // txtDatasource
             // 
-            this.txtDatasource.EditValue = "172.16.60.54";
+            this.txtDatasource.EditValue = "localhost";
             this.txtDatasource.Location = new System.Drawing.Point(95, 11);
             this.txtDatasource.Name = "txtDatasource";
             this.txtDatasource.Size = new System.Drawing.Size(134, 20);
@@ -276,7 +287,7 @@
             // 
             // txtDbPattern
             // 
-            this.txtDbPattern.EditValue = "TIGERWINGS";
+            this.txtDbPattern.EditValue = "URETIM_DEMO";
             this.txtDbPattern.Location = new System.Drawing.Point(95, 36);
             this.txtDbPattern.Name = "txtDbPattern";
             this.txtDbPattern.Size = new System.Drawing.Size(134, 20);
@@ -349,17 +360,6 @@
             this.groupControl1.Size = new System.Drawing.Size(935, 306);
             this.groupControl1.TabIndex = 8;
             this.groupControl1.Text = "Template Sql Script";
-            // 
-            // btnExecuteSql
-            // 
-            this.btnExecuteSql.Dock = System.Windows.Forms.DockStyle.Right;
-            this.btnExecuteSql.Location = new System.Drawing.Point(566, 0);
-            this.btnExecuteSql.Name = "btnExecuteSql";
-            this.btnExecuteSql.Size = new System.Drawing.Size(196, 36);
-            this.btnExecuteSql.TabIndex = 3;
-            this.btnExecuteSql.Text = "Execute Scripts Directly";
-            this.btnExecuteSql.UseVisualStyleBackColor = true;
-            this.btnExecuteSql.Click += new System.EventHandler(this.btnExecuteSql_Click);
             // 
             // FrmSqlGenerator
             // 
