@@ -169,7 +169,7 @@ namespace TigerLookupDataChecker
             {
                 if (lbDatabases.SelectedItem != null && !string.IsNullOrEmpty(lbDatabases.SelectedItem.ToString()))
                 {
-                    if (MessageBox.Show("Xmls in the Input folder will be read and searched at the target db's L_CITY L_TAXOFFICE L_TOWN tables. Continue?","", buttons: MessageBoxButtons.OKCancel) == DialogResult.OK)
+                    if (MessageBox.Show("Xmls in the Input folder will be read and searched at the target db's L_CITY L_TAXOFFICE L_TOWN L_BANKCODE L_BNBRANCH tables. Continue?","", buttons: MessageBoxButtons.OKCancel) == DialogResult.OK)
                     {
                         txtTemplateSql.Text = SqlHelper.CheckInputLookupDataAndGenerateMissingInsertStatements(GetConnString(lbDatabases.SelectedItem.ToString()));
                     }

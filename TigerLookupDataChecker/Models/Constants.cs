@@ -16,7 +16,8 @@ namespace TigerLookupDataChecker.Models
         public const string CityXmlFileName = "CITY-TR.XML";
         public const string TownXmlFileName = "TOWN-TR.XML";
         public const string TxOfXmlFileName = "TXOF-TR.XML";
-
+        public const string BankOfXmlFileName = "BANK-TR.XML";
+        public const string BankBranchOfXmlFileName = "BBRN-TR.XML";
 
         public const string ConnTemplate = "data source={0};initial catalog={1};persist security info=True;user id={2};Password={3}";
         public const string FirmSql = "select NR,NAME,PERNR from L_CAPIFIRM order by NR";
@@ -34,7 +35,9 @@ namespace TigerLookupDataChecker.Models
         {
             {CityXmlFileName,"https://www.nvi.gov.tr/PublishingImages/Pages/il-ilce-kod-tablosu/IL_ILCE_LISTESI.xls" },
             {TownXmlFileName,"https://www.nvi.gov.tr/PublishingImages/Pages/il-ilce-kod-tablosu/IL_ILCE_LISTESI.xls" },
-            {TxOfXmlFileName,"http://www.gib.gov.tr/fileadmin/HTML/vergidairebaskanlik/vergidairelerilistesi.pdf" }
+            {TxOfXmlFileName,"http://www.gib.gov.tr/fileadmin/HTML/vergidairebaskanlik/vergidairelerilistesi.pdf" },
+            {BankOfXmlFileName,"" },
+            {BankBranchOfXmlFileName,"" }
         };
     }
 }

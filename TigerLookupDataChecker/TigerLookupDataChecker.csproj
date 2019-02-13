@@ -89,6 +89,10 @@
     <Compile Include="Helpers\LookupFetchHelper.cs" />
     <Compile Include="Helpers\SqlHelper.cs" />
     <Compile Include="Helpers\Utils.cs" />
+    <Compile Include="Models\Bank.cs" />
+    <Compile Include="Models\BankBranch.cs" />
+    <Compile Include="Models\Factories\BankBranchFetcher.cs" />
+    <Compile Include="Models\Factories\BankOfXmlFetcher.cs" />
     <Compile Include="Models\Firm.cs" />
     <Compile Include="Models\TaxOffice.cs" />
     <Compile Include="Models\City.cs" />

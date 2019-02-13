@@ -18,6 +18,10 @@ namespace TigerLookupDataChecker.Models.Factories.Base
                     return new TownFetcher();
                 case Constants.TxOfXmlFileName:
                     return new TaxOfficeFetcher();
+                case Constants.BankOfXmlFileName:
+                    return new BankOfXmlFetcher();
+                case Constants.BankBranchOfXmlFileName:
+                    return new BankBranchFetcher();
                 default:
                     return new CityFetcher();
             }

@@ -1,4 +1,5 @@
-﻿using System;
+﻿using NAF.Common.Utils.Extensions;
+using System;
 using System.Collections.Generic;
 using System.Data.SqlClient;
 using System.Linq;
@@ -152,6 +153,22 @@ namespace TigerLookupDataChecker.Helpers
             }
         }
 
+        public static int GetCountryRef(string countryCode, List<Dictionary<string,object>> countries)
+        {
+            int countryRef = 0;
+
+            if(countries.Assigned() && countries.Any())
+            {
+                var targetCountry = countries.FirstOrDefault(f => f["CODE"].ToString().ToUpper() == countryCode.ToUpper());
+                if (targetCountry.Assigned())
+                {
+                    countryRef = int.Parse(targetCountry["COUNTRYNR"].ToString());
+                }
+            }
+
+            return countryRef;
+        }
+
         public static string CheckInputLookupDataAndGenerateMissingInsertStatements(string connString)
         {
             string targetInsertScripts = "";
@@ -161,8 +178,8 @@ namespace TigerLookupDataChecker.Helpers
                 CityXml cityXml = null;
                 TownXml townXml = null;
                 TaxOfficeXml taxOfficeXml = null;
-
-                int countryRef = 0;
+                BankXml bankXml = null;
+                BankBranchXml bankBranchXml = null;
 
                 //Input dosyalar deserialize edilerek nesnelere set edilir
                 foreach (var currentFile in Constants.SourceLinks.Keys)
@@ -184,30 +201,46 @@ namespace TigerLookupDataChecker.Helpers
                     {
                         taxOfficeXml = LookupFetcherFactory.GetFetcher(currentFile).GetInputFileData(currentFile);
                     }
+                    else if (currentFile == Constants.BankOfXmlFileName)
+                    {
+                        bankXml = LookupFetcherFactory.GetFetcher(currentFile).GetInputFileData(currentFile);
+                    }
+                    else if (currentFile == Constants.BankBranchOfXmlFileName)
+                    {
+                        bankBranchXml = LookupFetcherFactory.GetFetcher(currentFile).GetInputFileData(currentFile);
+                    }
                 }
 
                 //Country bilgisi sorgulanir id si alinir 
-                string countrySql = "select cc.LOGICALREF from L_COUNTRY cc where cc.CODE = 'TR'";
+                string countrySql = "select cc.LOGICALREF, cc.COUNTRYNR, cc.CODE from L_COUNTRY cc";
                 var countryResult = GetGenericQueryResult(connString, countrySql);
 
-                countryRef = int.Parse(countryResult[0]["LOGICALREF"].ToString());
+                var trCountryRef = GetCountryRef("TR", countryResult);
 
                 //City kayıtları sorgulanir   
-                string citySql = "select LOGICALREF, CODE, NAME from L_CITY c where c.COUNTRY = " + countryRef;
+                string citySql = "select LOGICALREF, CODE, NAME from L_CITY c where c.COUNTRY = " + trCountryRef;
                 var cityResult = GetGenericQueryResult(connString, citySql);
 
                 //Town kayıtları sorgulanir
-                string townSql = "select CODE, NAME from L_TOWN t where t.CNTRNR = " + countryRef;
+                string townSql = "select CODE, NAME from L_TOWN t where t.CNTRNR = " + trCountryRef;
                 var townResult = GetGenericQueryResult(connString, townSql);
 
                 //taxoffice kayıtları sorgulanir
-                string taxOfficeSql = "select CODE,NAME from L_TAXOFFICE t where t.CNTRNR =" + countryRef;
+                string taxOfficeSql = "select CODE,NAME from L_TAXOFFICE t where t.CNTRNR =" + trCountryRef;
                 var taxOfficeResult = GetGenericQueryResult(connString, taxOfficeSql);
 
                 string townMaxCodeSql = "select CTYREF, max(CODE) as MAXCODE from L_TOWN group by CTYREF order by CTYREF";
                 var townMaxCodeResult = GetGenericQueryResult(connString, townMaxCodeSql);
 
+                string bankSql = "select LOGICALREF, CODE, NAME FROM L_BANKCODE";
+                var bankResult = GetGenericQueryResult(connString, bankSql);
 
+                string bankBranchSql = "select bb.CODE,bb.NAME, (SELECT b.CODE FROM L_BANKCODE b where b.LOGICALREF = bb.BANKREF) as BANKCODE FROM L_BNBRANCH bb";
+                var bankBranchResult = GetGenericQueryResult(connString, bankBranchSql);
+
+                var bankFinalResult = GetGenericQueryResult(connString, bankSql);
+
+                #region city scripts
                 //Citylerin code tutmayanlari ayiklanir
                 //Insert scriptleri mevcut ayiklanmis kayitlar uzerinden olusturulur
                 if (cityXml.Cities != null)
@@ -217,11 +250,14 @@ namespace TigerLookupDataChecker.Helpers
                     {
                         foreach (var currentRecord in newRecords)
                         {
-                            targetInsertScripts += currentRecord.ToInsertStatement(countryRef);
+                            var targetCountryRef = GetCountryRef(currentRecord.CountryCode, countryResult);
+                            targetInsertScripts += currentRecord.ToInsertStatement(targetCountryRef);
                         }
                     }
                 }
+                #endregion
 
+                #region town scripts
                 //City code uzerinden filreleme ile name tutmayanlar ayiklanir
                 //Insert scriptleri mevcut ayiklanmis kayitlar uzerinden olusturulur
                 if (townXml.Towns != null)
@@ -251,13 +287,16 @@ namespace TigerLookupDataChecker.Helpers
                         {
                             foreach(var currentNewTownRecord in newTownRecordsForCity)
                             {
-                                targetInsertScripts += currentNewTownRecord.ToInsertStatement(countryRef, citysTownNextNo.ToString().PadLeft(2, '0'));
+                                var targetCountryRef = GetCountryRef(currentNewTownRecord.CountryCode, countryResult);
+                                targetInsertScripts += currentNewTownRecord.ToInsertStatement(targetCountryRef, citysTownNextNo.ToString().PadLeft(2, '0'));
                                 citysTownNextNo += 1;
                             }
                         }
                     }
                 }
+                #endregion
 
+                #region taxoffice scripts
                 //Code tutmayan kayitlar ayiklanir
                 //Insert scriptleri mevcut ayiklanmis kayitlar uzerinden olusturulur
                 if (taxOfficeXml.TaxOffices != null)
@@ -267,11 +306,70 @@ namespace TigerLookupDataChecker.Helpers
                     {
                         foreach (var currentRecord in newRecords)
                         {
-                            targetInsertScripts += currentRecord.ToInsertStatement(countryRef);
+                            var targetCountryRef = GetCountryRef(currentRecord.CountryCode, countryResult);
+
+                            targetInsertScripts += currentRecord.ToInsertStatement(trCountryRef);
                         }
                     }
                 }
+                #endregion
 
+                #region bank scripts
+                //bankalarin code tutmayanlari ayiklanir
+                //Insert scriptleri mevcut ayiklanmis kayitlar uzerinden olusturulur
+                if (bankXml.Banks != null)
+                {
+                    var newRecords = bankXml.Banks.Where(f => !bankResult.Any(x => x["CODE"].ToString() == f.Code)).ToList();
+                    if (newRecords != null && newRecords.Any())
+                    {
+                        foreach (var currentRecord in newRecords)
+                        {
+                            var targetCountryRef = GetCountryRef(currentRecord.CountryCode, countryResult);
+                            targetInsertScripts += currentRecord.ToInsertStatement(targetCountryRef);
+                        }
+                    }
+                }
+                #endregion
+
+                #region bank branch scripts
+                //bankalarin code tutmayanlari ayiklanir
+                //Insert scriptleri mevcut ayiklanmis kayitlar uzerinden olusturulur
+                if (bankBranchXml.BankBranchs != null)
+                {
+                    Dictionary<string, int> bankCodeLogicalrefRepository = new Dictionary<string, int>();
+
+                    var newRecords = bankBranchXml.BankBranchs.Where(f => !bankBranchResult.Any(x => x["BANKCODE"].ToString() == f.BankCode && x["CODE"].ToString() == f.Code)).ToList();
+                    if (newRecords != null && newRecords.Any())
+                    {
+                        foreach (var currentRecord in newRecords)
+                        {
+                            //ilgili bankanin logicalref bilgisi sorgulanir ve burada set edilir
+                            var targetBankRef = 0;
+
+                            if (!bankCodeLogicalrefRepository.Keys.Contains(currentRecord.BankCode))
+                            {
+                               var targetRecord = bankFinalResult.FirstOrDefault(f => f["CODE"].ToString() == currentRecord.BankCode);
+
+                               if (targetRecord.Assigned())
+                                {
+                                    targetBankRef = int.Parse(targetRecord["LOGICALREF"].ToString());
+                                    bankCodeLogicalrefRepository.AddOrUpdate(currentRecord.BankCode, targetBankRef);
+                                }
+                            }
+                            else
+                            {
+                                targetBankRef = bankCodeLogicalrefRepository[currentRecord.BankCode];
+                            }
+
+                            if (targetBankRef != 0)
+                            {
+                                var targetCountryRef = GetCountryRef(currentRecord.CountryCode, countryResult);
+                                targetInsertScripts += currentRecord.ToInsertStatement(targetCountryRef, targetBankRef);
+                            }
+                        }
+                    }
+                }
+                #endregion
             }
             catch (Exception ex)
             {
